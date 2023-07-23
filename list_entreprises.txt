@@ -1,0 +1,673 @@
+DEEZER,PARIS-09,Programmation informatique,0 salarié,4.1/nCHRISTOPHE AMALRIC
+    - A,ALFORTVILLE,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nJENKAA,PARIS-02,Programmation informatique,0 salarié,4.4/nFREE MOBILE,PARIS-08,Télécommunications sans fil,500 à 999 salariés,4.5/nDIGITAL CLASSIFIEDS FRANCE,PARIS-18,Portails Internet,50 à 99 salariés,3.9/nBADAKAN PLACEMENT,PARIS-16,Activités des agences de travail temporaire,0 salarié,4.4/nPARTOO,PARIS-18,Édition de logiciels système et de réseau,0 salarié,4.4/nNEXEO CONSULTING,PARIS-08,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.1/nSCALE YOU UP,PARIS-08,Programmation informatique,0 salarié,4.0/nCAJOO TECHNOLOGY,PARIS-08,Vente à distance sur catalogue spécialisé,0 salarié,3.9/nTALENT CLUB,PARIS-09,Programmation informatique,0 salarié,4.0/nMOONGROUP,PARIS-08,Edition de logiciels applicatifs,0 salarié,4.2/nINSERM SIEGE,PARIS-13,Recherche-développement en autres sciences physiques et naturelles,500 à 999 salariés,4.2/nWEDOOGIFT,PARIS-08,Programmation informatique,0 salarié,4.1/nCIZOO ADG, CIZOO,PARIS-20,Programmation informatique,0 salarié,3.8/nBOTIFY,PARIS-08,Édition de logiciels système et de réseau,0 salarié,4.0/nLOUNNA,PARIS-06,Programmation informatique,1 ou 2 salariés,4.1/nGENERIX GROUP,PARIS-12,Edition de logiciels applicatifs,200 à 249 salariés,4.2/nROCKETZ LAB LTD,PARIS-08,Autres activités informatiques,0 salarié,3.7/nECONOMIE D'ENERGIE,PARIS-17,Conseil en relations publiques et communication,200 à 249 salariés,3.6/nATTINEOS INFRASTRUCTURES
+    - MONT-SA,MONT-SAINT-AIGNAN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.4/nWYNIWYG
+    - BOIS,BOIS-GUILLAUME,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.9/nSECURILOG,LE-HAVRE,Autre mise à disposition de ressources humaines,100 à 199 salariés,3.3/nASS GESTION INSTITUT FORMAT EDUCAT NOR,LE-HAVRE,Enseignement supérieur,20 à 49 salariés,3.4/nSAS ETADIS
+    -,ETALONDES,Vente à distance sur catalogue général,10 à 19 salariés,3.6/nDIGIT NORMANDIE
+    - LE-PETI,LE-PETIT-QUEVILLY,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.9/nDESSIN CONCEPTION COMMUNICATION SARL,LE-HAVRE,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.6/nSOGET,LE-HAVRE,Edition de logiciels applicatifs,100 à 199 salariés,3.7/nEURL JLPI
+    - H,HATTENVILLE,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.0/nWYZEN,LE-HAVRE,Edition de logiciels applicatifs,0 salarié,3.0/nPONTOON
+    - I,ISNEAUVILLE,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,3.8/nAGENCE NATIONALE POUR LA FORMATION PROFE
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Formation continue d'adultes,0 salarié,2.8/nPROSPECTUS MAILING ADRESSE BAL GEOMARK,CANTELEU,Activités des agences de publicité,100 à 199 salariés,3.1/nPROXIAD AXE SEINE,ROUEN,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,3.9/nWEB ET SOLUTIONS
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Edition de logiciels applicatifs,50 à 99 salariés,3.7/nHENOSIS,ROUEN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nFORTIL NORMANDIE,ROUEN,Ingénierie, études techniques,0 salarié,2.7/nTOSHIBA TEC EUROPE IMAGING SYSTEMS SA
+    - MAR,MARTIN-EGLISE,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),200 à 249 salariés,3.0/nUNIVERSITE LE HAVRE NORMANDIE,LE-HAVRE,Enseignement supérieur,500 à 999 salariés,2.7/nADREXO
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Activités des agences de publicité,100 à 199 salariés,3.8/nTESSI/ACCES INFORMATIQUES,AVON,Traitement de données, hébergement et activités connexes,100 à 199 salariés,4.5/nONE EXPERT,SERRIS,Programmation informatique,0 salarié,3.6/nUPPER LINK,LOGNES,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.1/nGROUPE TENOR,SERRIS,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,3.4/nEXELA,NOISIEL,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nDELTA CE
+    - BRIE-CO,BRIE-COMTE-ROBERT,Edition de logiciels applicatifs,3 à 5 salariés,3.7/nRENDR SOFTWORKS
+    - DAMMARTI,DAMMARTIN-EN-GOELE,Programmation informatique,0 salarié,3.6/nHOURA HOURRA OURA OURRA KIDIWI VINARTIS
+    - BUSSY-SAI,BUSSY-SAINT-GEORGES,Vente à distance sur catalogue général,250 à 499 salariés,3.3/nGERMOND GROSSISTE PRINT
+    - FERRIER,FERRIERES-EN-BRIE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nCERBERE CONSULTING
+    - ROIS,ROISSY-EN-BRIE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nOPERANTIC
+    -,CHALIFERT,Programmation informatique,20 à 49 salariés,3.1/nAPPLIWAVE
+    - CROISSY,CROISSY-BEAUBOURG,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nATF GAIA
+    - MOISS,MOISSY-CRAMAYEL,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,50 à 99 salariés,3.3/nSARDEL CONSEIL
+    - SA,SAINT-SIMEON,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.6/nMAGIC POCKETS,TORCY,Programmation informatique,10 à 19 salariés,3.6/nLCV MULTIMEDIA
+    - BUSSY-SAI,BUSSY-SAINT-GEORGES,Programmation informatique,10 à 19 salariés,3.1/nBOTMIND
+    - ARBONN,ARBONNE-LA-FORET,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nOXAND,AVON,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.0/nSAFRAN AIRCRAFT ENGINES,REAU,Construction aéronautique et spatiale,5 000 à 9 999 salariés,2.5/nPHARMESPACE,CHESSY,Edition de logiciels applicatifs,10 à 19 salariés,3.0/nINSIEMA
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Traitement de données, hébergement et activités connexes,250 à 499 salariés,4.5/nATMOSPHERES
+    - B,BOIS-D-ARCY,Activités des agences de publicité,100 à 199 salariés,4.3/nSERVICE INNOVATION GROUP FRANCE
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Activités des agences de publicité,250 à 499 salariés,4.3/nGE HEALTHCARE,BUC,Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques,1 000 à 1 999 salariés,3.8/nINRAE JOUY
+    - JOU,JOUY-EN-JOSAS,Recherche-développement en autres sciences physiques et naturelles,500 à 999 salariés,3.7/nAVENAO SOLUTIONS 3D
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,3.9/nPENELOPE L'AGENCE
+    -,GUYANCOURT,Autres activités de soutien aux entreprises nca,2 000 à 4 999 salariés,4.5/nCS NOVIDY'S
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.1/nBEA IT
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nATEME
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Edition de logiciels applicatifs,100 à 199 salariés,3.4/nOSMOZIUM
+    -,VERSAILLES,Conseil en systèmes et logiciels informatiques,0 salarié,3.7/nINTERNET FACTORY,TRAPPES,Programmation informatique,1 ou 2 salariés,3.6/nSEDI,TRAPPES,Traitement de données, hébergement et activités connexes,0 salarié,3.4/nADAM COM
+    - MANTE,MANTES-LA-JOLIE,Télécommunications filaires,0 salarié,3.4/nSIPEARL
+    - MAISON,MAISONS-LAFFITTE,Fabrication d'ordinateurs et d'équipements périphériques,20 à 49 salariés,3.3/nBOUYGUES CONSTRUCTION IT
+    -,GUYANCOURT,Tierce maintenance de systèmes et d’applications informatiques,250 à 499 salariés,4.0/nINLEED
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Programmation informatique,3 à 5 salariés,3.1/n1 LIFE
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Edition de logiciels applicatifs,0 salarié,3.0/nAVANTEAM
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Edition de logiciels applicatifs,0 salarié,3.0/nINSIGHT TECHNOLOGY SOLUTIONS S.A.S
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,3.4/nCGI FRANCE,NIORT,Conseil en systèmes et logiciels informatiques,0 salarié,4.1/nCAPGEMINI TECHNOLOGY SERVICES,NIORT,Conseil en systèmes et logiciels informatiques,,4.4/nIDEM SANTE,CHAURAY,Edition de logiciels applicatifs,10 à 19 salariés,4.4/nTECODATA
+    - FRONTENAY-R,FRONTENAY-ROHAN-ROHAN,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.4/nGIE EUROPAC,CHAURAY,Autres activités de soutien aux entreprises nca,500 à 999 salariés,4.4/nSATELIX
+    -,BRESSUIRE,Programmation informatique,10 à 19 salariés,3.1/nCAT-AMANIA,CHAURAY,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nAUSY,CHAURAY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.4/nGFT FRANCE SAS,NIORT,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nBLS SERVICES
+    -,LA-CRECHE,Autres activités de soutien aux entreprises nca,20 à 49 salariés,2.8/nSTARIS,NIORT,Programmation informatique,10 à 19 salariés,3.1/nSTIMUT INFORMATIQUE,CHAURAY,Programmation informatique,6 à 9 salariés,3.1/nDUOTECH
+    -,BRESSUIRE,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.0/nSTRADA
+    -,BRESSUIRE,Edition de logiciels applicatifs,20 à 49 salariés,3.0/nAMILTONE,NIORT,Ingénierie, études techniques,1 ou 2 salariés,2.7/n123COUSEZ
+    - LA-FORET,LA-FORET-SUR-SEVRE,Vente à distance sur catalogue spécialisé,0 salarié,2.7/nKONVERSEO,NIORT,Conseil en relations publiques et communication,0 salarié,2.5/nMEDIAPOST,CHAURAY,Activités des agences de publicité,50 à 99 salariés,2.8/nDARVA,CHAURAY,Traitement de données, hébergement et activités connexes,100 à 199 salariés,2.5/nAPX HOPEN SYNSTAR - HOPEN,NIORT,Tierce maintenance de systèmes et d’applications informatiques,10 à 19 salariés,2.7/nEVOLUCARE TECHNOLOGIES,BOVES,Programmation informatique,0 salarié,4.0/nCORWIN
+    - VILLERS-,VILLERS-BRETONNEUX,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nBOW MEDICAL,AMIENS,Programmation informatique,0 salarié,4.1/nCGI,AMIENS,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.6/nLOGIGAZ-NORD,AMIENS,Conseil pour les affaires et autres conseils de gestion,0 salarié,3.8/nI N M C IDEATION INFORMATIQUE
+    - VILLERS-,VILLERS-BRETONNEUX,Édition de logiciels système et de réseau,6 à 9 salariés,3.3/nYWC,AMIENS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nECS 80
+    - QUE,QUEVAUVILLERS,Ingénierie, études techniques,50 à 99 salariés,2.5/nASS VIMEU INSERTION FORMA JEUN,CHEPY,Formation continue d'adultes,50 à 99 salariés,2.5/nCLEMENTINE SOLUTIONS NUMERIQUES,AMIENS,Autres activités informatiques,0 salarié,2.8/nA.R. ASSOCIES,AMIENS,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.8/nNORD-IMAGE
+    -,ABBEVILLE,Conseil en relations publiques et communication,10 à 19 salariés,2.5/nASS SOMME MULTI ACTIVITES
+    -,ABBEVILLE,Autres activités de soutien aux entreprises nca,50 à 99 salariés,3.5/n161,BOVES,Programmation informatique,1 ou 2 salariés,2.5/nA CAPPELLA,AMIENS,Autres activités de soutien aux entreprises nca,0 salarié,2.5/nAG CNAM,AMIENS,Enseignement supérieur,50 à 99 salariés,2.5/nDIFFUSION BUREAUTIQUE SOMME,GLISY,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,20 à 49 salariés,2.5/nNILOBSTAT,AMIENS,Programmation informatique,3 à 5 salariés,2.5/nGROUPE SILVER GENERATION
+    - BLANGY,BLANGY-TRONVILLE,Portails Internet,0 salarié,2.8/nMERSEN FRANCE AMIENS SAS,AMIENS,Fabrication d'autres matériels électriques,250 à 499 salariés,2.5/nINC
+    - CAMBOUNET-,CAMBOUNET-SUR-LE-SOR,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,3.8/nSPARTEARTH
+    - SAINT-SULPICE,SAINT-SULPICE-LA-POINTE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nAS DE COEUR,ALBI,Autres activités d'édition,1 ou 2 salariés,3.1/nE.B.S. ENERGIE,CASTRES,Activités spécialisées, scientifiques et techniques diverses,3 à 5 salariés,3.1/nLABRUGUIERE,CASTRES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.6/nCRYPTEO
+    - MARSSA,MARSSAC-SUR-TARN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nENCIRIS TECHNOLOGIES,GAILLAC,Programmation informatique,6 à 9 salariés,3.1/nSMAD
+    -,LE-GARRIC,Administration publique (tutelle) des activités économiques,20 à 49 salariés,2.7/nVRAI STUDIO SAS,CAMBON,Programmation informatique,3 à 5 salariés,2.5/nSOC LANGUEDOCIENNE D'INFORMATIQUE,CASTRES,Traitement de données, hébergement et activités connexes,10 à 19 salariés,2.8/nQASI,GRAULHET,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,3 à 5 salariés,2.8/nPERLES AND CO,ALBI,Vente à distance sur catalogue spécialisé,50 à 99 salariés,2.5/nEREGROUPE
+    - LESCURE-D,LESCURE-D-ALBIGEOIS,Programmation informatique,3 à 5 salariés,2.5/nAFIGEC INFORMATIQUE,CASTRES,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,6 à 9 salariés,3.0/nKOOKLIN,MAZAMET,Programmation informatique,6 à 9 salariés,3.1/nINSERT SOLUTIONS EI,CASTRES,Formation continue d'adultes,10 à 19 salariés,3.6/nRUAG DEFENCE FRANCE,TERSSAC,Fabrication d'instrumentation scientifique et technique,50 à 99 salariés,2.7/nKAURIWEB,CASTRES,Programmation informatique,10 à 19 salariés,2.5/nOTHERS SIDES,ALBI,Programmation informatique,0 salarié,2.5/nIMS NETWORKS,CASTRES,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nGIE AGORA
+    -,MONTAUBAN,Programmation informatique,250 à 499 salariés,4.0/nD.S.I.
+    - VERDUN-S,VERDUN-SUR-GARONNE,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.0/nFLTE
+    -,MONTAUBAN,Télécommunications filaires,10 à 19 salariés,2.8/nCRISARTECH,MONTEILS,Programmation informatique,1 ou 2 salariés,2.5/nBODET SOFTWARE,MOLIERES,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nPROSPECTUS MAILING ADRESSE BAL GEOMARK
+    -,MONTAUBAN,Activités des agences de publicité,100 à 199 salariés,2.5/nPUBLI SERVICES
+    - BEAUMONT-,BEAUMONT-DE-LOMAGNE,Activités des agences de publicité,3 à 5 salariés,2.5/nONET TECHNOLOGIES TI GOLFECH,GOLFECH,Ingénierie, études techniques,0 salarié,2.5/nSARL NEWCO,MOISSAC,Fonds de placement et entités financières similaires,0 salarié,2.5/nPROOFTAG
+    -,MONTAUBAN,Activités spécialisées, scientifiques et techniques diverses,20 à 49 salariés,2.5/nBOUYER INDUSTRIE
+    -,MONTAUBAN,Fabrication de produits électroniques grand public,20 à 49 salariés,2.5/nPROM STRATEGIE,CAMPSAS,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nIRIAN TECHNOLOGIES,MOISSAC,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nSODECAL SOCIAL RH
+    -,MONTAUBAN,Traitement de données, hébergement et activités connexes,20 à 49 salariés,2.7/nTECHNIC-LEV
+    - HO,HONOR-DE-COS,Activités spécialisées, scientifiques et techniques diverses,1 ou 2 salariés,2.5/nSARL INDY SYSTEM
+    -,MONTAUBAN,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,10 à 19 salariés,2.5/nSDEI
+    -,MONTAUBAN,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,2.7/nETABLISSEMENTS ERIC BACH,LAUZERTE,Fabrication de produits électroniques grand public,1 ou 2 salariés,2.5/nSYNOPTYC
+    -,MONTAUBAN,Ingénierie, études techniques,0 salarié,2.5/nSCOPELEC
+    -,MONTAUBAN,Fabrication d'équipements de communication,0 salarié,3.6/nLILY OF THE VALLEY
+    - LA-CR,LA-CROIX-VALMER,Activités des sièges sociaux,0 salarié,4.2/nLA BOITE IMMO,HYERES,Programmation informatique,0 salarié,4.5/nFMA
+    -,POURRIERES,Activités des agences de publicité,20 à 49 salariés,4.3/nLECLERC DRIVE
+    - LA-VALE,LA-VALETTE-DU-VAR,Vente à distance sur catalogue général,20 à 49 salariés,4.1/nAWA FIBRE
+    - LA-SEY,LA-SEYNE-SUR-MER,Autres activités de télécommunication,0 salarié,3.5/nLA WEBBOX
+    - SA,SAINT-TROPEZ,Programmation informatique,0 salarié,3.8/nKONTRON MODULAR COMPUTERS SA,LA-GARDE,Fabrication d'ordinateurs et d'équipements périphériques,50 à 99 salariés,3.5/nADREXO,FREJUS,Activités des agences de publicité,50 à 99 salariés,3.5/nCSI
+    - SAI,SAINT-RAPHAEL,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),20 à 49 salariés,4.4/nSECOV RH
+    - L,LE-BEAUSSET,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nPROSPECTUS MAILING ADRESSE BAL GEOMARK
+    - LA-VALE,LA-VALETTE-DU-VAR,Activités des agences de publicité,100 à 199 salariés,3.5/nMOOTION,TOULON,Programmation informatique,0 salarié,3.6/nHOTEL BYBLOS
+    - SA,SAINT-TROPEZ,Hôtels et hébergement similaire,20 à 49 salariés,3.6/nFAROS
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,6 à 9 salariés,4.4/nBEXTER
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,10 à 19 salariés,4.0/nGENTEL GLOBAL SOLUTIONS
+    - LA-VALE,LA-VALETTE-DU-VAR,Programmation informatique,0 salarié,3.1/nCENTRE INFORMATIQUE DE TRAITEMENT
+    - LA-SEY,LA-SEYNE-SUR-MER,Traitement de données, hébergement et activités connexes,0 salarié,3.4/nGMS,CUERS,Autres activités de télécommunication,100 à 199 salariés,3.1/nLOULOU BEACH
+    - SA,SAINT-TROPEZ,Activités des sièges sociaux,0 salarié,3.6/nDMI SYSTEMES
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,10 à 19 salariés,3.1/nS2P WEB
+    -,CAVAILLON,Édition de logiciels système et de réseau,10 à 19 salariés,4.4/nEURL VERTUOZ,AVIGNON,Programmation informatique,0 salarié,3.6/nHUMANROADS,AVIGNON,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.7/nB2PWEB
+    -,CAVAILLON,Edition de logiciels applicatifs,50 à 99 salariés,4.2/nTUT TUT,AVIGNON,Portails Internet,0 salarié,3.8/nKIZEO,AVIGNON,Edition de logiciels applicatifs,20 à 49 salariés,4.2/nC.B.A INFORMATIQUE LIBERALE,AVIGNON,Edition de logiciels applicatifs,100 à 199 salariés,4.5/nANTIBIA,MONTEUX,Programmation informatique,20 à 49 salariés,4.4/nLA BASTIDE DE GORDES,GORDES,Hôtels et hébergement similaire,20 à 49 salariés,2.7/nGRETA VAUCLUSE,AVIGNON,Formation continue d'adultes,100 à 199 salariés,3.6/nAPI C.F.A.I 84,AVIGNON,Enseignement supérieur,20 à 49 salariés,2.5/nLSI SUD INFORMATIQUE,VELLERON,Programmation informatique,10 à 19 salariés,2.5/nEDISSYUM CONSULTING
+    -,CARPENTRAS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nNG VIN,ORANGE,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nL'ENVOL
+    - ISLE-SUR,ISLE-SUR-LA-SORGUE,Autre mise à disposition de ressources humaines,20 à 49 salariés,2.5/nSOFICO SERVICES FRANCE,AVIGNON,Programmation informatique,1 ou 2 salariés,2.5/nMT FRANCE
+    -,CAVAILLON,Activités spécialisées, scientifiques et techniques diverses,50 à 99 salariés,2.5/nDIGITAL EVOLUTION,AVIGNON,Portails Internet,0 salarié,2.5/nHOSTELLERIE LE PHEBUS,JOUCAS,Hôtels et hébergement similaire,6 à 9 salariés,2.5/nVOCAZA,AVIGNON,Edition de logiciels applicatifs,0 salarié,3.0/nFIT LAB
+    -,TIFFAUGES,Programmation informatique,0 salarié,4.4/nHYGIENE EXPERT
+    - LE,LES-HERBIERS,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nGROUPE LACOUR,MONTAIGU,Édition de logiciels système et de réseau,20 à 49 salariés,3.3/nMARKET-DIGIT
+    - FONTENA,FONTENAY-LE-COMTE,Edition de logiciels applicatifs,0 salarié,3.7/nINNLOG
+    - LES-SABLE,LES-SABLES-D-OLONNE,Programmation informatique,20 à 49 salariés,3.6/nSIGAL
+    - LE,LES-HERBIERS,Edition de logiciels applicatifs,20 à 49 salariés,3.0/nWELKOM ENERGY
+    - LA-ROC,LA-ROCHE-SUR-YON,Commerce d'électricité,0 salarié,3.0/nCISTEBOIS
+    - BEAULIEU-SOU,BEAULIEU-SOUS-LA-ROCHE,Activités spécialisées de design,20 à 49 salariés,3.0/nFAIRSON INVENTAIRE,CHALLANS,Autres activités de soutien aux entreprises nca,50 à 99 salariés,2.8/nACP SERVICES
+    - MORTAGNE,MORTAGNE-SUR-SEVRE,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,4.0/nOZERIM
+    - LA-ROC,LA-ROCHE-SUR-YON,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,2.7/nICES - INSTITUT CATHO ETUDES SUPERIEURES
+    - LA-ROC,LA-ROCHE-SUR-YON,Enseignement supérieur,100 à 199 salariés,3.0/nOCODE
+    - LA-ROC,LA-ROCHE-SUR-YON,Edition de logiciels applicatifs,6 à 9 salariés,3.0/nARRIVE
+    - SAI,SAINT-FULGENT,Autres activités de soutien aux entreprises nca,200 à 249 salariés,3.1/nFGRIBREAU
+    -,CHANTONNAY,Programmation informatique,0 salarié,2.5/nNEXETO
+    - LA-ROC,LA-ROCHE-SUR-YON,Programmation informatique,3 à 5 salariés,3.6/nSIDUNIS
+    - LA-ROC,LA-ROCHE-SUR-YON,Programmation informatique,1 ou 2 salariés,3.1/nCETH CONCEPTION D'EQUIPEMENTS THERMIQU
+    - LA-CHAPE,LA-CHAPELLE-ACHARD,Ingénierie, études techniques,10 à 19 salariés,2.7/nS.R.D.I. DISTRICART
+    - LA-BOISSIERE-,LA-BOISSIERE-DES-LANDES,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,20 à 49 salariés,2.8/nSIIUM,CHALLANS,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nINTERCOM TECHNOLOGIES
+    -,CHAUVIGNY,Programmation informatique,0 salarié,4.4/nE-QUAL
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Tierce maintenance de systèmes et d’applications informatiques,20 à 49 salariés,3.8/nVIVATICKET
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.1/nRELEVE SERVICE PLUS
+    - SAINT-GENEST,SAINT-GENEST-D-AMBIERE,Autres activités de soutien aux entreprises nca,0 salarié,3.1/nINLEED
+    - J,JAUNAY-CLAN,Programmation informatique,6 à 9 salariés,3.1/nEASYLI
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Activités spécialisées, scientifiques et techniques diverses,0 salarié,3.0/nMISE EN PROD
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nTATA CONSULTANCY SERVICES FRANCE
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nLIGUE DE L'ENSEIGNEMENT MOUVEMENT LAIQUE,POITIERS,Formation continue d'adultes,100 à 199 salariés,2.5/nCETRAFACT
+    - SA,SAINT-BENOIT,Programmation informatique,6 à 9 salariés,2.5/nEKSAE,LOUDUN,Édition de logiciels système et de réseau,50 à 99 salariés,3.9/nASSISTOVET
+    - J,JAUNAY-CLAN,Edition de logiciels applicatifs,0 salarié,2.5/nEURL ANGEBAULT
+    - NUEIL,NUEIL-SOUS-FAYE,Vente à distance sur catalogue spécialisé,0 salarié,2.5/nRH SOLUTIONS PORTAGE SALARIAL,POITIERS,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.5/nAGIRTS-IRTS POITOU CHARENTES,POITIERS,Enseignement supérieur,100 à 199 salariés,2.5/nPROGIAL INFORMATIQUE,POITIERS,Edition de logiciels applicatifs,10 à 19 salariés,2.5/nASSOCIATION INTERMEDIAIRE L ENVOL,SMARVES,Autre mise à disposition de ressources humaines,100 à 199 salariés,2.5/nCLINSIGHT,POITIERS,Programmation informatique,10 à 19 salariés,2.5/nALTERNETIS,POITIERS,Programmation informatique,0 salarié,3.1/nACEASCOP FORMASCOPE
+    - CHA,CHATELLERAULT,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.7/nAXYUS,LIMOGES,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nMUST INFORMATIQUE,COUZEIX,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nALTRIA,LIMOGES,Ingénierie, études techniques,6 à 9 salariés,3.0/nGOOMEO,LIMOGES,Édition de logiciels système et de réseau,0 salarié,3.3/nCERIG SA
+    - PIERR,PIERRE-BUFFIERE,Programmation informatique,20 à 49 salariés,3.1/nSARL FIPS
+    - SAINT-SULPICE-LE,SAINT-SULPICE-LES-FEUILLES,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nODB,LIMOGES,Programmation informatique,3 à 5 salariés,2.5/nEMAKINA,LIMOGES,Programmation informatique,50 à 99 salariés,3.1/nMEDIVET LAB,LIMOGES,Edition de logiciels applicatifs,10 à 19 salariés,3.0/nADREXO,LIMOGES,Activités des agences de publicité,100 à 199 salariés,2.8/nA.J.A. PUBLICITE,LIMOGES,Autres activités d'édition,0 salarié,2.5/nLOGIDOC SOLUTIONS,LIMOGES,Traitement de données, hébergement et activités connexes,20 à 49 salariés,2.5/nORANGE,LIMOGES,Télécommunications filaires,250 à 499 salariés,2.5/nAGENCE NATIONALE POUR LA FORMATION PROFE,LIMOGES,Formation continue d'adultes,0 salarié,2.5/nGROUPE SITTI,LIMOGES,Programmation informatique,3 à 5 salariés,3.6/nSPG,LIMOGES,Autres activités de soutien aux entreprises nca,0 salarié,2.5/nAXIONE DPL,LIMOGES,Autres activités de télécommunication,0 salarié,2.7/nATHELL SAS,FEYTIAT,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nPOLARIS FORMATION,ISLE,Formation continue d'adultes,200 à 249 salariés,2.5/nORENCE,LIMOGES,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,2.5/nVIA MOBILIS
+    -,AMBACOURT,Portails Internet,20 à 49 salariés,3.8/nINOV@,REMOMEIX,Conseil en relations publiques et communication,0 salarié,3.4/nLWS,GOLBEY,Traitement de données, hébergement et activités connexes,10 à 19 salariés,3.4/nIDIWAY
+    -,SAINT-AME,Programmation informatique,3 à 5 salariés,2.5/nFINANCIERE MAUFFREY
+    - SA,SAINT-NABORD,Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, nca,50 à 99 salariés,3.1/nMOREL INGENIERIE
+    - BADMENI,BADMENIL-AUX-BOIS,Ingénierie, études techniques,1 ou 2 salariés,2.7/nSOS INFORMATIQUE 88 SERVICES
+    -,CORNIMONT,Réparation d'ordinateurs et d'équipements périphériques,0 salarié,2.5/nTRANSPORTS BOUQUOT,POUXEUX,Activités des sièges sociaux,20 à 49 salariés,2.5/nSERVICES ASSISTANCE MAINTENANCE INFORM
+    - N,NEUFCHATEAU,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,10 à 19 salariés,3.0/nCASHDEV,VAGNEY,Programmation informatique,10 à 19 salariés,3.8/nIDHOUSSE,ANOULD,Vente à distance sur catalogue général,10 à 19 salariés,2.5/nFMS,EPINAL,Autres activités de soutien aux entreprises nca,20 à 49 salariés,3.1/nPREFABAT
+    -,GERARDMER,Fabrication d'autres matériels électriques,20 à 49 salariés,2.5/nINSTITUTS DE FORMATION EN SOINS INFIRM,EPINAL,Enseignement supérieur,20 à 49 salariés,2.5/nAFPA GOLBEY,GOLBEY,Formation continue d'adultes,20 à 49 salariés,2.5/nHOTEL COSMOS
+    - CON,CONTREXEVILLE,Hôtels et hébergement similaire,10 à 19 salariés,2.5/nRAPID SAS
+    - L,LE-SYNDICAT,Autres activités de soutien aux entreprises nca,50 à 99 salariés,2.5/nTHIRIET DISTRIBUTION,ELOYES,Activités des sièges sociaux,20 à 49 salariés,2.5/nITELCOM
+    - RA,RAON-L-ETAPE,Autres activités de soutien aux entreprises nca,20 à 49 salariés,2.5/nSOFT INFO
+    - SAINT-DIE-,SAINT-DIE-DES-VOSGES,Gestion d'installations informatiques,0 salarié,2.5/nHYPERION INFORMATIQUE,APPOIGNY,Autres activités informatiques,3 à 5 salariés,3.5/nE. LECLERC.DRIVE,PERRIGNY,Vente à distance sur catalogue général,20 à 49 salariés,3.3/nVULCANIC
+    - SAINT,SAINT-FLORENTIN,Fabrication d'instrumentation scientifique et technique,50 à 99 salariés,2.8/nMICROMANIA ZING POP CULTURE,AUXERRE,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,0 salarié,2.8/nPEBIX,DOLLOT,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.5/nLABO ICAUNAIS ENCAISSEMENT MONETIQUE,VALLERY,Réparation d'ordinateurs et d'équipements périphériques,20 à 49 salariés,2.5/nID'EES 89,ORMOY,Autres activités de soutien aux entreprises nca,10 à 19 salariés,2.5/nSARL CONTROLE ET MAINTENANCE,SENS,Ingénierie, études techniques,20 à 49 salariés,2.5/nDAPA TECHNOLOGY
+    - CHARNY-OREE-,CHARNY-OREE-DE-PUISAYE,Fabrication d'équipements de communication,10 à 19 salariés,3.3/nADREXO,AUXERRE,Activités des agences de publicité,100 à 199 salariés,2.5/nHITEK PRODUCTION ANIMATION,APPOIGNY,Réparation d'ordinateurs et d'équipements périphériques,3 à 5 salariés,2.5/nANCIENS ETS G.SCHIEVER ET FILS,AVALLON,Activités des sièges sociaux,200 à 249 salariés,2.5/nPAPYHAPPY,JOIGNY,Traitement de données, hébergement et activités connexes,0 salarié,2.5/nEDIES CONSULTING,MONETEAU,Programmation informatique,0 salarié,2.5/nVIRTUA-NETWORKS,AUXERRE,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nINSTITUT TECHNIQUE GAZ ET AIR,SENS,Activités spécialisées, scientifiques et techniques diverses,3 à 5 salariés,2.5/nCENTRE DISTRIBUTEUR E.LECLERC,MAILLOT,Vente à distance sur catalogue général,10 à 19 salariés,2.5/nESDI EUROPEAN SYSTEM,BELFORT,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.4/nESDI EUROPEAN HELP DESK,BELFORT,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.4/nCAPGEMINI TECHNOLOGY SERVICES,MEROUX,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nCFI SERVICES,BELFORT,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,2.7/nIBM INTERACTIVE,BELFORT,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nILLICOMAIL ILLICOSHOP ILLICONET
+    -,MORVILLARS,Programmation informatique,3 à 5 salariés,2.5/nALSTOM POWER SYSTEMS SA
+    -,CRAVANCHE,Ingénierie, études techniques,500 à 999 salariés,2.7/nFRANCE TELECOM RECHERCHE ET DEVELOP,BELFORT,Télécommunications filaires,200 à 249 salariés,2.5/nGE ENERGY POWER,BELFORT,Ingénierie, études techniques,200 à 249 salariés,2.5/nEFOR BELFORT,MEROUX,Ingénierie, études techniques,50 à 99 salariés,2.5/nUNIVERSITE TECHNOLOGIE BELFORT MONTBELI,SEVENANS,Enseignement supérieur,250 à 499 salariés,2.5/nINNOVELEC INDUSTRIE
+    -,BAVILLIERS,Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels,20 à 49 salariés,2.5/nALTRAN TECHNOLOGIES,MEROUX,Ingénierie, études techniques,250 à 499 salariés,2.5/nRKF GROUP,BELFORT,Conseil pour les affaires et autres conseils de gestion,6 à 9 salariés,2.5/nAJC INFO,BELFORT,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,2.5/nALSTOM POWER SERVICE,BELFORT,Ingénierie, études techniques,250 à 499 salariés,2.5/nINTERVENTION CLIENT BELFORT BAVILLIERS
+    -,ARGIESANS,Télécommunications filaires,20 à 49 salariés,2.5/nAUCHAN
+    - B,BESSONCOURT,Vente à distance sur catalogue général,250 à 499 salariés,2.5/nGE INTERNATIONAL,BELFORT,Ingénierie, études techniques,0 salarié,2.5/nMINCATEC ENERGY,MEROUX,Activités spécialisées, scientifiques et techniques diverses,0 salarié,2.5/nORANGE BUSINESS SERVICES,MASSY,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.1/nREFLEXE MULTIMEDIA & SERVICES
+    - COU,COURCOURONNES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.1/nMEDIA IMMO
+    - CORBEI,CORBEIL-ESSONNES,Programmation informatique,0 salarié,4.6/nAPIXIT,LES-ULIS,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nUNIVERSITE PARIS SACLAY
+    - GIF-,GIF-SUR-YVETTE,Enseignement supérieur,0 salarié,3.9/nPI ELECTRONIQUE
+    - VILLEBON-,VILLEBON-SUR-YVETTE,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),50 à 99 salariés,3.7/nVIPS FRANCE,LISSES,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),20 à 49 salariés,3.7/nATEMPO,MASSY,Edition de logiciels applicatifs,50 à 99 salariés,4.2/nREDOPUS,EVRY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nLES MOUSQUETAIRES
+    - VER,VERT-LE-GRAND,Conseil pour les affaires et autres conseils de gestion,200 à 249 salariés,3.5/nX-FAB FRANCE
+    - CORBEI,CORBEIL-ESSONNES,Fabrication de composants électroniques,500 à 999 salariés,4.0/nCOMEARTH,ORSAY,Conseil pour les affaires et autres conseils de gestion,100 à 199 salariés,4.5/nCEA CENTRE DE BRUYERES LE CHATEL
+    - BRUYERES,BRUYERES-LE-CHATEL,Recherche-développement en autres sciences physiques et naturelles,2 000 à 4 999 salariés,3.4/nTESSI EDITIQUE
+    -,LONGJUMEAU,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.4/nAMA ASSOCIATES,ORSAY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nINFOVISTA SAS,MASSY,Édition de logiciels système et de réseau,0 salarié,3.3/nCNRS MOY400 ILE-DE-FRANCE GIF-SUR-YVETTE
+    - GIF-,GIF-SUR-YVETTE,Recherche-développement en sciences humaines et sociales,2 000 à 4 999 salariés,4.2/nCEA SACLAY
+    - S,SAINT-AUBIN,Recherche-développement en autres sciences physiques et naturelles,5 000 à 9 999 salariés,4.4/nNBTECH,LES-ULIS,Ingénierie, études techniques,50 à 99 salariés,3.3/nDBF QUALITE,EVRY,Programmation informatique,0 salarié,3.6/nGETIR FRANCE
+    - NEUILLY,NEUILLY-SUR-SEINE,Programmation informatique,0 salarié,4.7/nDOCTOLIB
+    - LEVALL,LEVALLOIS-PERRET,Programmation informatique,0 salarié,4.7/nPROSERVIA,NANTERRE,Conseil en systèmes et logiciels informatiques,1 000 à 1 999 salariés,4.5/nALTEN SYSTEMES D'INFORMATION ET RESEAUX
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nHARDIS GROUPE,PUTEAUX,Programmation informatique,100 à 199 salariés,4.5/nAIXIAL
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.5/nJEMS LABS
+    - NEUILLY,NEUILLY-SUR-SEINE,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.5/nVISEO
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,500 à 999 salariés,4.5/nADAMING CONSEIL,PUTEAUX,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.4/nGALITT
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nORACLE FRANCE,COLOMBES,Edition de logiciels applicatifs,500 à 999 salariés,4.2/nBUSINESS & DECISION FRANCE,NANTERRE,Conseil en systèmes et logiciels informatiques,0 salarié,4.4/nANETYS NORD - ANETYS SUD EST - ANETYS SU,SURESNES,Edition de logiciels applicatifs,20 à 49 salariés,4.4/nMWM
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Edition de logiciels applicatifs,20 à 49 salariés,4.2/nAUBAY
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,2 000 à 4 999 salariés,4.6/nMETALINE DATA CENTER SERVICES,NANTERRE,Ingénierie, études techniques,0 salarié,4.1/nIVIDATA STATS
+    - LEVALL,LEVALLOIS-PERRET,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.4/nFEEDBACK
+    -,COURBEVOIE,Autres activités informatiques,500 à 999 salariés,4.3/nAVANADE FRANCE
+    - ISSY-LES-,ISSY-LES-MOULINEAUX,Programmation informatique,500 à 999 salariés,4.4/nSOCIETE CAST,MEUDON,Edition de logiciels outils de développement et de langages,100 à 199 salariés,4.2/nAPT-SYS-MALLYANCE,BAGNOLET,Programmation informatique,20 à 49 salariés,4.4/nRESEAU-SOLUTION INTERNET TELECOM INTER
+    - S,SAINT-DENIS,Autres activités de télécommunication,100 à 199 salariés,4.4/nPOLE EMPLOI DR ILE DE FRANCE
+    - NOIS,NOISY-LE-GRAND,Administration publique (tutelle) des activités économiques,500 à 999 salariés,4.5/nLOGIQUE IMMOSOFT
+    - S,SAINT-DENIS,Programmation informatique,1 ou 2 salariés,4.5/nSTAFFMATCH
+    -,SAINT-OUEN,Programmation informatique,6 à 9 salariés,4.4/nASSOCIATION ENVERGURE
+    - AULNAY,AULNAY-SOUS-BOIS,Formation continue d'adultes,50 à 99 salariés,4.1/nTESSI CHEQUE ILE DE FRANCE
+    -,MONTREUIL,Traitement de données, hébergement et activités connexes,50 à 99 salariés,4.4/nSPACELY STOCKAGE
+    -,SAINT-OUEN,Programmation informatique,1 ou 2 salariés,3.8/nAGENCE DE FUNDRAISING-FACE A FACE-FORMAT,BONDY,Conseil en relations publiques et communication,10 à 19 salariés,3.9/nSAAYCOM
+    - S,SAINT-DENIS,Tierce maintenance de systèmes et d’applications informatiques,0 salarié,4.0/nKAROIL
+    -,MONTREUIL,Tierce maintenance de systèmes et d’applications informatiques,20 à 49 salariés,3.6/nXANDRIE,PANTIN,Portails Internet,20 à 49 salariés,3.8/nITNOVEM ( FILIALE SNCF)
+    - S,SAINT-DENIS,Edition de logiciels applicatifs,100 à 199 salariés,3.8/nEVA
+    -,MONTREUIL,Programmation informatique,0 salarié,3.6/nSALVIA DEVELOPPEMENT
+    - AUB,AUBERVILLIERS,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nHYPERLEX
+    -,SAINT-OUEN,Edition de logiciels applicatifs,3 à 5 salariés,3.8/nALLIANZ TECHNOLOGY
+    -,SAINT-OUEN,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nIBM INTERACTIVE
+    - NOIS,NOISY-LE-GRAND,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nCALLIOPE BUSINESS SOLUTIONS
+    - S,SAINT-DENIS,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.1/nWTH
+    - TREMBLAY,TREMBLAY-EN-FRANCE,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nHN SERVICES - HN FORMATION - HN RECRUTEM
+    - CHARENT,CHARENTON-LE-PONT,Conseil en systèmes et logiciels informatiques,500 à 999 salariés,4.6/nIZENCIA
+    - IVRY,IVRY-SUR-SEINE,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.5/nCIRCET DISTRIBUTION
+    - CHO,CHOISY-LE-ROI,Programmation informatique,0 salarié,4.5/nSHINE
+    - BONNEUIL,BONNEUIL-SUR-MARNE,Autres activités de soutien aux entreprises nca,0 salarié,3.8/nIT LINK SYSTEM
+    - LE-KREML,LE-KREMLIN-BICETRE,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nADDEXPERT
+    - SAINT-MAUR-,SAINT-MAUR-DES-FOSSES,Autres activités de soutien aux entreprises nca,50 à 99 salariés,3.8/nCARTADIS
+    - FONTENAY,FONTENAY-SOUS-BOIS,Fabrication d'ordinateurs et d'équipements périphériques,50 à 99 salariés,3.5/nVIVERIS TECHNOLOGIES,RUNGIS,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nCITY ONE ACCUEIL PASSAGER,ORLY,Autres activités de soutien aux entreprises nca,50 à 99 salariés,4.5/nSKELLO
+    -,VINCENNES,Edition de logiciels applicatifs,20 à 49 salariés,4.4/nECO INVESTMENT
+    - IVRY,IVRY-SUR-SEINE,Activités spécialisées, scientifiques et techniques diverses,0 salarié,3.5/nCNRS MOY100 ILE-DE-FRANCE VILLEJUIF
+    -,VILLEJUIF,Recherche-développement en sciences humaines et sociales,2 000 à 4 999 salariés,3.7/nCITIMA
+    - S,SAINT-MANDE,Programmation informatique,0 salarié,3.1/nHAPPYPAL
+    - S,SAINT-MANDE,Programmation informatique,0 salarié,3.8/nSTA PORTAGE
+    - MAIS,MAISONS-ALFORT,Autres activités de soutien aux entreprises nca,20 à 49 salariés,3.8/nMEDIALIS
+    - FONTENAY,FONTENAY-SOUS-BOIS,Edition de logiciels applicatifs,20 à 49 salariés,3.7/nLIBEO
+    -,VINCENNES,Programmation informatique,0 salarié,4.4/nOFFICE FRANCAIS DE LA BIODIVERSITE
+    -,VINCENNES,Administration publique (tutelle) des activités économiques,0 salarié,3.4/nBLOOMIN
+    - S,SAINT-MANDE,Programmation informatique,20 à 49 salariés,3.8/nNTT FRANCE,RUNGIS,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nATOS MANAGEMENT FRANCE,BEZONS,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.1/nWORLDLINE FRANCE,BEZONS,Conseil en systèmes et logiciels informatiques,0 salarié,4.1/nINFODIS IT
+    - ROISSY,ROISSY-EN-FRANCE,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.7/nCOFELY ALS
+    - ROISSY,ROISSY-EN-FRANCE,Ingénierie, études techniques,50 à 99 salariés,3.6/nEUROCOM ENERGIE
+    - VILLI,VILLIERS-LE-BEL,Autres activités de télécommunication,10 à 19 salariés,3.5/nPMPC
+    - SAINT-OUE,SAINT-OUEN-L-AUMONE,Tierce maintenance de systèmes et d’applications informatiques,6 à 9 salariés,4.0/n1G-LINK CONSULTING,BEZONS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.7/nSTEPHYA CONCEPTS
+    - SAINT-OUE,SAINT-OUEN-L-AUMONE,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nLITTLE WORKER
+    -,HEDOUVILLE,Programmation informatique,1 ou 2 salariés,4.4/nTORIN & CIE
+    - GOU,GOUSSAINVILLE,Conseil pour les affaires et autres conseils de gestion,1 ou 2 salariés,3.5/nADREXO
+    - SAINT-LE,SAINT-LEU-LA-FORET,Activités des agences de publicité,100 à 199 salariés,3.1/nANEXYS
+    - GARGES-L,GARGES-LES-GONESSE,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.4/nRIO MANAGED SERVICES
+    - PUISEU,PUISEUX-PONTOISE,Programmation informatique,0 salarié,4.6/nKN CONSULTING
+    - SAI,SAINT-GRATIEN,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nWORLDCONNEXION
+    - SAINT-BRICE-,SAINT-BRICE-SOUS-FORET,Autres activités informatiques,0 salarié,3.7/nSG PROD
+    -,LE-THILLAY,Programmation informatique,0 salarié,3.1/nINMAC WSTORE
+    - ROISSY,ROISSY-EN-FRANCE,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,250 à 499 salariés,4.1/nENSOPCO,DOMONT,Portails Internet,0 salarié,2.8/nDOCAPOSTE BPO,CERGY,Traitement de données, hébergement et activités connexes,100 à 199 salariés,3.4/nSINAPEL
+    -,ARGENTEUIL,Télécommunications filaires,0 salarié,2.8/nCONNEKT4
+    - S,SAINT-DENIS,Programmation informatique,0 salarié,3.6/nALIZES DEVELOPPEMENT
+    - S,SAINTE-ANNE,Conseil en relations publiques et communication,0 salarié,3.4/nBCCL ACCESS TO SUCCESS
+    -,LES-ABYMES,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nAGYRH CONSULTING
+    - BA,BAIE-MAHAULT,Programmation informatique,0 salarié,3.1/nZEOP MOBILE,LE-PORT,Télécommunications sans fil,0 salarié,3.5/nSAS NOUTDOC SOLUTION
+    -,SAINT-LEU,Edition de logiciels applicatifs,0 salarié,3.4/nHUMAPRO
+    -,SAINT-PAUL,Programmation informatique,0 salarié,4.1/nPIL-MEDIA
+    - L,LE-LAMENTIN,Programmation informatique,1 ou 2 salariés,3.1/nNIXIA ENGINEERING SYSTEM,LE-PORT,Tierce maintenance de systèmes et d’applications informatiques,3 à 5 salariés,3.8/nSECTION MORIN DESMARAIS
+    - B,BASSE-TERRE,Administration publique (tutelle) des activités économiques,100 à 199 salariés,3.0/nA.R.M.E.F.L.HOR.
+    - SA,SAINT-PIERRE,Activités spécialisées, scientifiques et techniques diverses,20 à 49 salariés,3.0/nM'GIALA-TELECOM,LE-MARIN,Autres activités informatiques,0 salarié,2.8/nSTRATEGIE INFORMATIQUE
+    -,LES-ABYMES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.0/nADRUN
+    - S,SAINT-DENIS,Programmation informatique,10 à 19 salariés,3.1/nMADI'DEV CTRE DE FORMATIONS  NUMERIQUE,
+    - FORT,FORT-DE-FRANCE,Formation continue d'adultes,6 à 9 salariés,2.8/nNOVATEC GUADELOUPE
+    - BA,BAIE-MAHAULT,Autres activités informatiques,6 à 9 salariés,2.8/nINSTITUT PASTEUR DE GUYANE,CAYENNE,Recherche-développement en autres sciences physiques et naturelles,50 à 99 salariés,2.7/nSOCIETE DE RECYCLAGE ET DE RECONDITIONNE
+    - S,SAINT-DENIS,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,6 à 9 salariés,2.7/nBEELIZ
+    - BA,BAIE-MAHAULT,Programmation informatique,0 salarié,3.6/nAVANT-GARDE OUTRE MER,CAYENNE,Tierce maintenance de systèmes et d’applications informatiques,0 salarié,3.1/nDEEZER,PARIS-09,Programmation informatique,0 salarié,4.1/nCHRISTOPHE AMALRIC
+    - A,ALFORTVILLE,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nJENKAA,PARIS-02,Programmation informatique,0 salarié,4.4/nFREE MOBILE,PARIS-08,Télécommunications sans fil,500 à 999 salariés,4.5/nDIGITAL CLASSIFIEDS FRANCE,PARIS-18,Portails Internet,50 à 99 salariés,3.9/nBADAKAN PLACEMENT,PARIS-16,Activités des agences de travail temporaire,0 salarié,4.4/nPARTOO,PARIS-18,Édition de logiciels système et de réseau,0 salarié,4.4/nNEXEO CONSULTING,PARIS-08,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.1/nSCALE YOU UP,PARIS-08,Programmation informatique,0 salarié,4.0/nCAJOO TECHNOLOGY,PARIS-08,Vente à distance sur catalogue spécialisé,0 salarié,3.9/nTALENT CLUB,PARIS-09,Programmation informatique,0 salarié,4.0/nMOONGROUP,PARIS-08,Edition de logiciels applicatifs,0 salarié,4.2/nINSERM SIEGE,PARIS-13,Recherche-développement en autres sciences physiques et naturelles,500 à 999 salariés,4.2/nWEDOOGIFT,PARIS-08,Programmation informatique,0 salarié,4.1/nCIZOO ADG, CIZOO,PARIS-20,Programmation informatique,0 salarié,3.8/nBOTIFY,PARIS-08,Édition de logiciels système et de réseau,0 salarié,4.0/nLOUNNA,PARIS-06,Programmation informatique,1 ou 2 salariés,4.1/nGENERIX GROUP,PARIS-12,Edition de logiciels applicatifs,200 à 249 salariés,4.2/nROCKETZ LAB LTD,PARIS-08,Autres activités informatiques,0 salarié,3.7/nECONOMIE D'ENERGIE,PARIS-17,Conseil en relations publiques et communication,200 à 249 salariés,3.6/nATTINEOS INFRASTRUCTURES
+    - MONT-SA,MONT-SAINT-AIGNAN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.4/nWYNIWYG
+    - BOIS,BOIS-GUILLAUME,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.9/nSECURILOG,LE-HAVRE,Autre mise à disposition de ressources humaines,100 à 199 salariés,3.3/nASS GESTION INSTITUT FORMAT EDUCAT NOR,LE-HAVRE,Enseignement supérieur,20 à 49 salariés,3.4/nSAS ETADIS
+    -,ETALONDES,Vente à distance sur catalogue général,10 à 19 salariés,3.6/nDIGIT NORMANDIE
+    - LE-PETI,LE-PETIT-QUEVILLY,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.9/nDESSIN CONCEPTION COMMUNICATION SARL,LE-HAVRE,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.6/nSOGET,LE-HAVRE,Edition de logiciels applicatifs,100 à 199 salariés,3.7/nEURL JLPI
+    - H,HATTENVILLE,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.0/nWYZEN,LE-HAVRE,Edition de logiciels applicatifs,0 salarié,3.0/nPONTOON
+    - I,ISNEAUVILLE,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,3.8/nAGENCE NATIONALE POUR LA FORMATION PROFE
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Formation continue d'adultes,0 salarié,2.8/nPROSPECTUS MAILING ADRESSE BAL GEOMARK,CANTELEU,Activités des agences de publicité,100 à 199 salariés,3.1/nPROXIAD AXE SEINE,ROUEN,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,3.9/nWEB ET SOLUTIONS
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Edition de logiciels applicatifs,50 à 99 salariés,3.7/nHENOSIS,ROUEN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nFORTIL NORMANDIE,ROUEN,Ingénierie, études techniques,0 salarié,2.7/nTOSHIBA TEC EUROPE IMAGING SYSTEMS SA
+    - MAR,MARTIN-EGLISE,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),200 à 249 salariés,3.0/nUNIVERSITE LE HAVRE NORMANDIE,LE-HAVRE,Enseignement supérieur,500 à 999 salariés,2.7/nADREXO
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Activités des agences de publicité,100 à 199 salariés,3.8/nTESSI/ACCES INFORMATIQUES,AVON,Traitement de données, hébergement et activités connexes,100 à 199 salariés,4.5/nONE EXPERT,SERRIS,Programmation informatique,0 salarié,3.6/nUPPER LINK,LOGNES,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.1/nGROUPE TENOR,SERRIS,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,3.4/nEXELA,NOISIEL,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nDELTA CE
+    - BRIE-CO,BRIE-COMTE-ROBERT,Edition de logiciels applicatifs,3 à 5 salariés,3.7/nRENDR SOFTWORKS
+    - DAMMARTI,DAMMARTIN-EN-GOELE,Programmation informatique,0 salarié,3.6/nHOURA HOURRA OURA OURRA KIDIWI VINARTIS
+    - BUSSY-SAI,BUSSY-SAINT-GEORGES,Vente à distance sur catalogue général,250 à 499 salariés,3.3/nGERMOND GROSSISTE PRINT
+    - FERRIER,FERRIERES-EN-BRIE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nCERBERE CONSULTING
+    - ROIS,ROISSY-EN-BRIE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nOPERANTIC
+    -,CHALIFERT,Programmation informatique,20 à 49 salariés,3.1/nAPPLIWAVE
+    - CROISSY,CROISSY-BEAUBOURG,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nATF GAIA
+    - MOISS,MOISSY-CRAMAYEL,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,50 à 99 salariés,3.3/nSARDEL CONSEIL
+    - SA,SAINT-SIMEON,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.6/nMAGIC POCKETS,TORCY,Programmation informatique,10 à 19 salariés,3.6/nLCV MULTIMEDIA
+    - BUSSY-SAI,BUSSY-SAINT-GEORGES,Programmation informatique,10 à 19 salariés,3.1/nBOTMIND
+    - ARBONN,ARBONNE-LA-FORET,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nOXAND,AVON,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.0/nSAFRAN AIRCRAFT ENGINES,REAU,Construction aéronautique et spatiale,5 000 à 9 999 salariés,2.5/nPHARMESPACE,CHESSY,Edition de logiciels applicatifs,10 à 19 salariés,3.0/nINSIEMA
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Traitement de données, hébergement et activités connexes,250 à 499 salariés,4.5/nATMOSPHERES
+    - B,BOIS-D-ARCY,Activités des agences de publicité,100 à 199 salariés,4.3/nSERVICE INNOVATION GROUP FRANCE
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Activités des agences de publicité,250 à 499 salariés,4.3/nGE HEALTHCARE,BUC,Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques,1 000 à 1 999 salariés,3.8/nINRAE JOUY
+    - JOU,JOUY-EN-JOSAS,Recherche-développement en autres sciences physiques et naturelles,500 à 999 salariés,3.7/nAVENAO SOLUTIONS 3D
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,3.9/nPENELOPE L'AGENCE
+    -,GUYANCOURT,Autres activités de soutien aux entreprises nca,2 000 à 4 999 salariés,4.5/nCS NOVIDY'S
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.1/nBEA IT
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nATEME
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Edition de logiciels applicatifs,100 à 199 salariés,3.4/nOSMOZIUM
+    -,VERSAILLES,Conseil en systèmes et logiciels informatiques,0 salarié,3.7/nINTERNET FACTORY,TRAPPES,Programmation informatique,1 ou 2 salariés,3.6/nSEDI,TRAPPES,Traitement de données, hébergement et activités connexes,0 salarié,3.4/nADAM COM
+    - MANTE,MANTES-LA-JOLIE,Télécommunications filaires,0 salarié,3.4/nSIPEARL
+    - MAISON,MAISONS-LAFFITTE,Fabrication d'ordinateurs et d'équipements périphériques,20 à 49 salariés,3.3/nBOUYGUES CONSTRUCTION IT
+    -,GUYANCOURT,Tierce maintenance de systèmes et d’applications informatiques,250 à 499 salariés,4.0/nINLEED
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Programmation informatique,3 à 5 salariés,3.1/n1 LIFE
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Edition de logiciels applicatifs,0 salarié,3.0/nAVANTEAM
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Edition de logiciels applicatifs,0 salarié,3.0/nINSIGHT TECHNOLOGY SOLUTIONS S.A.S
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,3.4/nCGI FRANCE,NIORT,Conseil en systèmes et logiciels informatiques,0 salarié,4.1/nCAPGEMINI TECHNOLOGY SERVICES,NIORT,Conseil en systèmes et logiciels informatiques,,4.4/nIDEM SANTE,CHAURAY,Edition de logiciels applicatifs,10 à 19 salariés,4.4/nTECODATA
+    - FRONTENAY-R,FRONTENAY-ROHAN-ROHAN,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.4/nGIE EUROPAC,CHAURAY,Autres activités de soutien aux entreprises nca,500 à 999 salariés,4.4/nSATELIX
+    -,BRESSUIRE,Programmation informatique,10 à 19 salariés,3.1/nCAT-AMANIA,CHAURAY,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nAUSY,CHAURAY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.4/nGFT FRANCE SAS,NIORT,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nBLS SERVICES
+    -,LA-CRECHE,Autres activités de soutien aux entreprises nca,20 à 49 salariés,2.8/nSTARIS,NIORT,Programmation informatique,10 à 19 salariés,3.1/nSTIMUT INFORMATIQUE,CHAURAY,Programmation informatique,6 à 9 salariés,3.1/nDUOTECH
+    -,BRESSUIRE,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.0/nSTRADA
+    -,BRESSUIRE,Edition de logiciels applicatifs,20 à 49 salariés,3.0/nAMILTONE,NIORT,Ingénierie, études techniques,1 ou 2 salariés,2.7/n123COUSEZ
+    - LA-FORET,LA-FORET-SUR-SEVRE,Vente à distance sur catalogue spécialisé,0 salarié,2.7/nKONVERSEO,NIORT,Conseil en relations publiques et communication,0 salarié,2.5/nMEDIAPOST,CHAURAY,Activités des agences de publicité,50 à 99 salariés,2.8/nDARVA,CHAURAY,Traitement de données, hébergement et activités connexes,100 à 199 salariés,2.5/nAPX HOPEN SYNSTAR - HOPEN,NIORT,Tierce maintenance de systèmes et d’applications informatiques,10 à 19 salariés,2.7/nEVOLUCARE TECHNOLOGIES,BOVES,Programmation informatique,0 salarié,4.0/nCORWIN
+    - VILLERS-,VILLERS-BRETONNEUX,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nBOW MEDICAL,AMIENS,Programmation informatique,0 salarié,4.1/nCGI,AMIENS,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.6/nLOGIGAZ-NORD,AMIENS,Conseil pour les affaires et autres conseils de gestion,0 salarié,3.8/nI N M C IDEATION INFORMATIQUE
+    - VILLERS-,VILLERS-BRETONNEUX,Édition de logiciels système et de réseau,6 à 9 salariés,3.3/nYWC,AMIENS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nECS 80
+    - QUE,QUEVAUVILLERS,Ingénierie, études techniques,50 à 99 salariés,2.5/nASS VIMEU INSERTION FORMA JEUN,CHEPY,Formation continue d'adultes,50 à 99 salariés,2.5/nCLEMENTINE SOLUTIONS NUMERIQUES,AMIENS,Autres activités informatiques,0 salarié,2.8/nA.R. ASSOCIES,AMIENS,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.8/nNORD-IMAGE
+    -,ABBEVILLE,Conseil en relations publiques et communication,10 à 19 salariés,2.5/nASS SOMME MULTI ACTIVITES
+    -,ABBEVILLE,Autres activités de soutien aux entreprises nca,50 à 99 salariés,3.5/n161,BOVES,Programmation informatique,1 ou 2 salariés,2.5/nA CAPPELLA,AMIENS,Autres activités de soutien aux entreprises nca,0 salarié,2.5/nAG CNAM,AMIENS,Enseignement supérieur,50 à 99 salariés,2.5/nDIFFUSION BUREAUTIQUE SOMME,GLISY,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,20 à 49 salariés,2.5/nNILOBSTAT,AMIENS,Programmation informatique,3 à 5 salariés,2.5/nGROUPE SILVER GENERATION
+    - BLANGY,BLANGY-TRONVILLE,Portails Internet,0 salarié,2.8/nMERSEN FRANCE AMIENS SAS,AMIENS,Fabrication d'autres matériels électriques,250 à 499 salariés,2.5/nINC
+    - CAMBOUNET-,CAMBOUNET-SUR-LE-SOR,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,3.8/nSPARTEARTH
+    - SAINT-SULPICE,SAINT-SULPICE-LA-POINTE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nAS DE COEUR,ALBI,Autres activités d'édition,1 ou 2 salariés,3.1/nE.B.S. ENERGIE,CASTRES,Activités spécialisées, scientifiques et techniques diverses,3 à 5 salariés,3.1/nLABRUGUIERE,CASTRES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.6/nCRYPTEO
+    - MARSSA,MARSSAC-SUR-TARN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nENCIRIS TECHNOLOGIES,GAILLAC,Programmation informatique,6 à 9 salariés,3.1/nSMAD
+    -,LE-GARRIC,Administration publique (tutelle) des activités économiques,20 à 49 salariés,2.7/nVRAI STUDIO SAS,CAMBON,Programmation informatique,3 à 5 salariés,2.5/nSOC LANGUEDOCIENNE D'INFORMATIQUE,CASTRES,Traitement de données, hébergement et activités connexes,10 à 19 salariés,2.8/nQASI,GRAULHET,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,3 à 5 salariés,2.8/nPERLES AND CO,ALBI,Vente à distance sur catalogue spécialisé,50 à 99 salariés,2.5/nEREGROUPE
+    - LESCURE-D,LESCURE-D-ALBIGEOIS,Programmation informatique,3 à 5 salariés,2.5/nAFIGEC INFORMATIQUE,CASTRES,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,6 à 9 salariés,3.0/nKOOKLIN,MAZAMET,Programmation informatique,6 à 9 salariés,3.1/nINSERT SOLUTIONS EI,CASTRES,Formation continue d'adultes,10 à 19 salariés,3.6/nRUAG DEFENCE FRANCE,TERSSAC,Fabrication d'instrumentation scientifique et technique,50 à 99 salariés,2.7/nKAURIWEB,CASTRES,Programmation informatique,10 à 19 salariés,2.5/nOTHERS SIDES,ALBI,Programmation informatique,0 salarié,2.5/nIMS NETWORKS,CASTRES,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nGIE AGORA
+    -,MONTAUBAN,Programmation informatique,250 à 499 salariés,4.0/nD.S.I.
+    - VERDUN-S,VERDUN-SUR-GARONNE,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.0/nFLTE
+    -,MONTAUBAN,Télécommunications filaires,10 à 19 salariés,2.8/nCRISARTECH,MONTEILS,Programmation informatique,1 ou 2 salariés,2.5/nBODET SOFTWARE,MOLIERES,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nPROSPECTUS MAILING ADRESSE BAL GEOMARK
+    -,MONTAUBAN,Activités des agences de publicité,100 à 199 salariés,2.5/nPUBLI SERVICES
+    - BEAUMONT-,BEAUMONT-DE-LOMAGNE,Activités des agences de publicité,3 à 5 salariés,2.5/nONET TECHNOLOGIES TI GOLFECH,GOLFECH,Ingénierie, études techniques,0 salarié,2.5/nSARL NEWCO,MOISSAC,Fonds de placement et entités financières similaires,0 salarié,2.5/nPROOFTAG
+    -,MONTAUBAN,Activités spécialisées, scientifiques et techniques diverses,20 à 49 salariés,2.5/nBOUYER INDUSTRIE
+    -,MONTAUBAN,Fabrication de produits électroniques grand public,20 à 49 salariés,2.5/nPROM STRATEGIE,CAMPSAS,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nIRIAN TECHNOLOGIES,MOISSAC,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nSODECAL SOCIAL RH
+    -,MONTAUBAN,Traitement de données, hébergement et activités connexes,20 à 49 salariés,2.7/nTECHNIC-LEV
+    - HO,HONOR-DE-COS,Activités spécialisées, scientifiques et techniques diverses,1 ou 2 salariés,2.5/nSARL INDY SYSTEM
+    -,MONTAUBAN,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,10 à 19 salariés,2.5/nSDEI
+    -,MONTAUBAN,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,2.7/nETABLISSEMENTS ERIC BACH,LAUZERTE,Fabrication de produits électroniques grand public,1 ou 2 salariés,2.5/nSYNOPTYC
+    -,MONTAUBAN,Ingénierie, études techniques,0 salarié,2.5/nSCOPELEC
+    -,MONTAUBAN,Fabrication d'équipements de communication,0 salarié,3.6/nLILY OF THE VALLEY
+    - LA-CR,LA-CROIX-VALMER,Activités des sièges sociaux,0 salarié,4.2/nLA BOITE IMMO,HYERES,Programmation informatique,0 salarié,4.5/nFMA
+    -,POURRIERES,Activités des agences de publicité,20 à 49 salariés,4.3/nLECLERC DRIVE
+    - LA-VALE,LA-VALETTE-DU-VAR,Vente à distance sur catalogue général,20 à 49 salariés,4.1/nAWA FIBRE
+    - LA-SEY,LA-SEYNE-SUR-MER,Autres activités de télécommunication,0 salarié,3.5/nLA WEBBOX
+    - SA,SAINT-TROPEZ,Programmation informatique,0 salarié,3.8/nKONTRON MODULAR COMPUTERS SA,LA-GARDE,Fabrication d'ordinateurs et d'équipements périphériques,50 à 99 salariés,3.5/nADREXO,FREJUS,Activités des agences de publicité,50 à 99 salariés,3.5/nCSI
+    - SAI,SAINT-RAPHAEL,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),20 à 49 salariés,4.4/nSECOV RH
+    - L,LE-BEAUSSET,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nPROSPECTUS MAILING ADRESSE BAL GEOMARK
+    - LA-VALE,LA-VALETTE-DU-VAR,Activités des agences de publicité,100 à 199 salariés,3.5/nMOOTION,TOULON,Programmation informatique,0 salarié,3.6/nHOTEL BYBLOS
+    - SA,SAINT-TROPEZ,Hôtels et hébergement similaire,20 à 49 salariés,3.6/nFAROS
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,6 à 9 salariés,4.4/nBEXTER
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,10 à 19 salariés,4.0/nGENTEL GLOBAL SOLUTIONS
+    - LA-VALE,LA-VALETTE-DU-VAR,Programmation informatique,0 salarié,3.1/nCENTRE INFORMATIQUE DE TRAITEMENT
+    - LA-SEY,LA-SEYNE-SUR-MER,Traitement de données, hébergement et activités connexes,0 salarié,3.4/nGMS,CUERS,Autres activités de télécommunication,100 à 199 salariés,3.1/nLOULOU BEACH
+    - SA,SAINT-TROPEZ,Activités des sièges sociaux,0 salarié,3.6/nDMI SYSTEMES
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,10 à 19 salariés,3.1/nS2P WEB
+    -,CAVAILLON,Édition de logiciels système et de réseau,10 à 19 salariés,4.4/nEURL VERTUOZ,AVIGNON,Programmation informatique,0 salarié,3.6/nHUMANROADS,AVIGNON,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.7/nB2PWEB
+    -,CAVAILLON,Edition de logiciels applicatifs,50 à 99 salariés,4.2/nTUT TUT,AVIGNON,Portails Internet,0 salarié,3.8/nKIZEO,AVIGNON,Edition de logiciels applicatifs,20 à 49 salariés,4.2/nC.B.A INFORMATIQUE LIBERALE,AVIGNON,Edition de logiciels applicatifs,100 à 199 salariés,4.5/nANTIBIA,MONTEUX,Programmation informatique,20 à 49 salariés,4.4/nLA BASTIDE DE GORDES,GORDES,Hôtels et hébergement similaire,20 à 49 salariés,2.7/nGRETA VAUCLUSE,AVIGNON,Formation continue d'adultes,100 à 199 salariés,3.6/nAPI C.F.A.I 84,AVIGNON,Enseignement supérieur,20 à 49 salariés,2.5/nLSI SUD INFORMATIQUE,VELLERON,Programmation informatique,10 à 19 salariés,2.5/nEDISSYUM CONSULTING
+    -,CARPENTRAS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nNG VIN,ORANGE,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nL'ENVOL
+    - ISLE-SUR,ISLE-SUR-LA-SORGUE,Autre mise à disposition de ressources humaines,20 à 49 salariés,2.5/nSOFICO SERVICES FRANCE,AVIGNON,Programmation informatique,1 ou 2 salariés,2.5/nMT FRANCE
+    -,CAVAILLON,Activités spécialisées, scientifiques et techniques diverses,50 à 99 salariés,2.5/nDIGITAL EVOLUTION,AVIGNON,Portails Internet,0 salarié,2.5/nHOSTELLERIE LE PHEBUS,JOUCAS,Hôtels et hébergement similaire,6 à 9 salariés,2.5/nVOCAZA,AVIGNON,Edition de logiciels applicatifs,0 salarié,3.0/nFIT LAB
+    -,TIFFAUGES,Programmation informatique,0 salarié,4.4/nHYGIENE EXPERT
+    - LE,LES-HERBIERS,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nGROUPE LACOUR,MONTAIGU,Édition de logiciels système et de réseau,20 à 49 salariés,3.3/nMARKET-DIGIT
+    - FONTENA,FONTENAY-LE-COMTE,Edition de logiciels applicatifs,0 salarié,3.7/nINNLOG
+    - LES-SABLE,LES-SABLES-D-OLONNE,Programmation informatique,20 à 49 salariés,3.6/nSIGAL
+    - LE,LES-HERBIERS,Edition de logiciels applicatifs,20 à 49 salariés,3.0/nWELKOM ENERGY
+    - LA-ROC,LA-ROCHE-SUR-YON,Commerce d'électricité,0 salarié,3.0/nCISTEBOIS
+    - BEAULIEU-SOU,BEAULIEU-SOUS-LA-ROCHE,Activités spécialisées de design,20 à 49 salariés,3.0/nFAIRSON INVENTAIRE,CHALLANS,Autres activités de soutien aux entreprises nca,50 à 99 salariés,2.8/nACP SERVICES
+    - MORTAGNE,MORTAGNE-SUR-SEVRE,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,4.0/nOZERIM
+    - LA-ROC,LA-ROCHE-SUR-YON,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,2.7/nICES - INSTITUT CATHO ETUDES SUPERIEURES
+    - LA-ROC,LA-ROCHE-SUR-YON,Enseignement supérieur,100 à 199 salariés,3.0/nOCODE
+    - LA-ROC,LA-ROCHE-SUR-YON,Edition de logiciels applicatifs,6 à 9 salariés,3.0/nARRIVE
+    - SAI,SAINT-FULGENT,Autres activités de soutien aux entreprises nca,200 à 249 salariés,3.1/nFGRIBREAU
+    -,CHANTONNAY,Programmation informatique,0 salarié,2.5/nNEXETO
+    - LA-ROC,LA-ROCHE-SUR-YON,Programmation informatique,3 à 5 salariés,3.6/nSIDUNIS
+    - LA-ROC,LA-ROCHE-SUR-YON,Programmation informatique,1 ou 2 salariés,3.1/nCETH CONCEPTION D'EQUIPEMENTS THERMIQU
+    - LA-CHAPE,LA-CHAPELLE-ACHARD,Ingénierie, études techniques,10 à 19 salariés,2.7/nS.R.D.I. DISTRICART
+    - LA-BOISSIERE-,LA-BOISSIERE-DES-LANDES,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,20 à 49 salariés,2.8/nSIIUM,CHALLANS,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nINTERCOM TECHNOLOGIES
+    -,CHAUVIGNY,Programmation informatique,0 salarié,4.4/nE-QUAL
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Tierce maintenance de systèmes et d’applications informatiques,20 à 49 salariés,3.8/nVIVATICKET
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.1/nRELEVE SERVICE PLUS
+    - SAINT-GENEST,SAINT-GENEST-D-AMBIERE,Autres activités de soutien aux entreprises nca,0 salarié,3.1/nINLEED
+    - J,JAUNAY-CLAN,Programmation informatique,6 à 9 salariés,3.1/nEASYLI
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Activités spécialisées, scientifiques et techniques diverses,0 salarié,3.0/nMISE EN PROD
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nTATA CONSULTANCY SERVICES FRANCE
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nLIGUE DE L'ENSEIGNEMENT MOUVEMENT LAIQUE,POITIERS,Formation continue d'adultes,100 à 199 salariés,2.5/nCETRAFACT
+    - SA,SAINT-BENOIT,Programmation informatique,6 à 9 salariés,2.5/nEKSAE,LOUDUN,Édition de logiciels système et de réseau,50 à 99 salariés,3.9/nASSISTOVET
+    - J,JAUNAY-CLAN,Edition de logiciels applicatifs,0 salarié,2.5/nEURL ANGEBAULT
+    - NUEIL,NUEIL-SOUS-FAYE,Vente à distance sur catalogue spécialisé,0 salarié,2.5/nRH SOLUTIONS PORTAGE SALARIAL,POITIERS,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.5/nAGIRTS-IRTS POITOU CHARENTES,POITIERS,Enseignement supérieur,100 à 199 salariés,2.5/nPROGIAL INFORMATIQUE,POITIERS,Edition de logiciels applicatifs,10 à 19 salariés,2.5/nASSOCIATION INTERMEDIAIRE L ENVOL,SMARVES,Autre mise à disposition de ressources humaines,100 à 199 salariés,2.5/nCLINSIGHT,POITIERS,Programmation informatique,10 à 19 salariés,2.5/nALTERNETIS,POITIERS,Programmation informatique,0 salarié,3.1/nACEASCOP FORMASCOPE
+    - CHA,CHATELLERAULT,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.7/nAXYUS,LIMOGES,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nMUST INFORMATIQUE,COUZEIX,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nALTRIA,LIMOGES,Ingénierie, études techniques,6 à 9 salariés,3.0/nGOOMEO,LIMOGES,Édition de logiciels système et de réseau,0 salarié,3.3/nCERIG SA
+    - PIERR,PIERRE-BUFFIERE,Programmation informatique,20 à 49 salariés,3.1/nSARL FIPS
+    - SAINT-SULPICE-LE,SAINT-SULPICE-LES-FEUILLES,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nODB,LIMOGES,Programmation informatique,3 à 5 salariés,2.5/nEMAKINA,LIMOGES,Programmation informatique,50 à 99 salariés,3.1/nMEDIVET LAB,LIMOGES,Edition de logiciels applicatifs,10 à 19 salariés,3.0/nADREXO,LIMOGES,Activités des agences de publicité,100 à 199 salariés,2.8/nA.J.A. PUBLICITE,LIMOGES,Autres activités d'édition,0 salarié,2.5/nLOGIDOC SOLUTIONS,LIMOGES,Traitement de données, hébergement et activités connexes,20 à 49 salariés,2.5/nORANGE,LIMOGES,Télécommunications filaires,250 à 499 salariés,2.5/nAGENCE NATIONALE POUR LA FORMATION PROFE,LIMOGES,Formation continue d'adultes,0 salarié,2.5/nGROUPE SITTI,LIMOGES,Programmation informatique,3 à 5 salariés,3.6/nSPG,LIMOGES,Autres activités de soutien aux entreprises nca,0 salarié,2.5/nAXIONE DPL,LIMOGES,Autres activités de télécommunication,0 salarié,2.7/nATHELL SAS,FEYTIAT,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nPOLARIS FORMATION,ISLE,Formation continue d'adultes,200 à 249 salariés,2.5/nORENCE,LIMOGES,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,2.5/nVIA MOBILIS
+    -,AMBACOURT,Portails Internet,20 à 49 salariés,3.8/nINOV@,REMOMEIX,Conseil en relations publiques et communication,0 salarié,3.4/nLWS,GOLBEY,Traitement de données, hébergement et activités connexes,10 à 19 salariés,3.4/nIDIWAY
+    -,SAINT-AME,Programmation informatique,3 à 5 salariés,2.5/nFINANCIERE MAUFFREY
+    - SA,SAINT-NABORD,Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, nca,50 à 99 salariés,3.1/nMOREL INGENIERIE
+    - BADMENI,BADMENIL-AUX-BOIS,Ingénierie, études techniques,1 ou 2 salariés,2.7/nSOS INFORMATIQUE 88 SERVICES
+    -,CORNIMONT,Réparation d'ordinateurs et d'équipements périphériques,0 salarié,2.5/nTRANSPORTS BOUQUOT,POUXEUX,Activités des sièges sociaux,20 à 49 salariés,2.5/nSERVICES ASSISTANCE MAINTENANCE INFORM
+    - N,NEUFCHATEAU,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,10 à 19 salariés,3.0/nCASHDEV,VAGNEY,Programmation informatique,10 à 19 salariés,3.8/nIDHOUSSE,ANOULD,Vente à distance sur catalogue général,10 à 19 salariés,2.5/nFMS,EPINAL,Autres activités de soutien aux entreprises nca,20 à 49 salariés,3.1/nPREFABAT
+    -,GERARDMER,Fabrication d'autres matériels électriques,20 à 49 salariés,2.5/nINSTITUTS DE FORMATION EN SOINS INFIRM,EPINAL,Enseignement supérieur,20 à 49 salariés,2.5/nAFPA GOLBEY,GOLBEY,Formation continue d'adultes,20 à 49 salariés,2.5/nHOTEL COSMOS
+    - CON,CONTREXEVILLE,Hôtels et hébergement similaire,10 à 19 salariés,2.5/nRAPID SAS
+    - L,LE-SYNDICAT,Autres activités de soutien aux entreprises nca,50 à 99 salariés,2.5/nTHIRIET DISTRIBUTION,ELOYES,Activités des sièges sociaux,20 à 49 salariés,2.5/nITELCOM
+    - RA,RAON-L-ETAPE,Autres activités de soutien aux entreprises nca,20 à 49 salariés,2.5/nSOFT INFO
+    - SAINT-DIE-,SAINT-DIE-DES-VOSGES,Gestion d'installations informatiques,0 salarié,2.5/nHYPERION INFORMATIQUE,APPOIGNY,Autres activités informatiques,3 à 5 salariés,3.5/nE. LECLERC.DRIVE,PERRIGNY,Vente à distance sur catalogue général,20 à 49 salariés,3.3/nVULCANIC
+    - SAINT,SAINT-FLORENTIN,Fabrication d'instrumentation scientifique et technique,50 à 99 salariés,2.8/nMICROMANIA ZING POP CULTURE,AUXERRE,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,0 salarié,2.8/nPEBIX,DOLLOT,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.5/nLABO ICAUNAIS ENCAISSEMENT MONETIQUE,VALLERY,Réparation d'ordinateurs et d'équipements périphériques,20 à 49 salariés,2.5/nID'EES 89,ORMOY,Autres activités de soutien aux entreprises nca,10 à 19 salariés,2.5/nSARL CONTROLE ET MAINTENANCE,SENS,Ingénierie, études techniques,20 à 49 salariés,2.5/nDAPA TECHNOLOGY
+    - CHARNY-OREE-,CHARNY-OREE-DE-PUISAYE,Fabrication d'équipements de communication,10 à 19 salariés,3.3/nADREXO,AUXERRE,Activités des agences de publicité,100 à 199 salariés,2.5/nHITEK PRODUCTION ANIMATION,APPOIGNY,Réparation d'ordinateurs et d'équipements périphériques,3 à 5 salariés,2.5/nANCIENS ETS G.SCHIEVER ET FILS,AVALLON,Activités des sièges sociaux,200 à 249 salariés,2.5/nPAPYHAPPY,JOIGNY,Traitement de données, hébergement et activités connexes,0 salarié,2.5/nEDIES CONSULTING,MONETEAU,Programmation informatique,0 salarié,2.5/nVIRTUA-NETWORKS,AUXERRE,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nINSTITUT TECHNIQUE GAZ ET AIR,SENS,Activités spécialisées, scientifiques et techniques diverses,3 à 5 salariés,2.5/nCENTRE DISTRIBUTEUR E.LECLERC,MAILLOT,Vente à distance sur catalogue général,10 à 19 salariés,2.5/nESDI EUROPEAN SYSTEM,BELFORT,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.4/nESDI EUROPEAN HELP DESK,BELFORT,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.4/nCAPGEMINI TECHNOLOGY SERVICES,MEROUX,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nCFI SERVICES,BELFORT,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,2.7/nIBM INTERACTIVE,BELFORT,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nILLICOMAIL ILLICOSHOP ILLICONET
+    -,MORVILLARS,Programmation informatique,3 à 5 salariés,2.5/nALSTOM POWER SYSTEMS SA
+    -,CRAVANCHE,Ingénierie, études techniques,500 à 999 salariés,2.7/nFRANCE TELECOM RECHERCHE ET DEVELOP,BELFORT,Télécommunications filaires,200 à 249 salariés,2.5/nGE ENERGY POWER,BELFORT,Ingénierie, études techniques,200 à 249 salariés,2.5/nEFOR BELFORT,MEROUX,Ingénierie, études techniques,50 à 99 salariés,2.5/nUNIVERSITE TECHNOLOGIE BELFORT MONTBELI,SEVENANS,Enseignement supérieur,250 à 499 salariés,2.5/nINNOVELEC INDUSTRIE
+    -,BAVILLIERS,Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels,20 à 49 salariés,2.5/nALTRAN TECHNOLOGIES,MEROUX,Ingénierie, études techniques,250 à 499 salariés,2.5/nRKF GROUP,BELFORT,Conseil pour les affaires et autres conseils de gestion,6 à 9 salariés,2.5/nAJC INFO,BELFORT,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,2.5/nALSTOM POWER SERVICE,BELFORT,Ingénierie, études techniques,250 à 499 salariés,2.5/nINTERVENTION CLIENT BELFORT BAVILLIERS
+    -,ARGIESANS,Télécommunications filaires,20 à 49 salariés,2.5/nAUCHAN
+    - B,BESSONCOURT,Vente à distance sur catalogue général,250 à 499 salariés,2.5/nGE INTERNATIONAL,BELFORT,Ingénierie, études techniques,0 salarié,2.5/nMINCATEC ENERGY,MEROUX,Activités spécialisées, scientifiques et techniques diverses,0 salarié,2.5/nORANGE BUSINESS SERVICES,MASSY,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.1/nREFLEXE MULTIMEDIA & SERVICES
+    - COU,COURCOURONNES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.1/nMEDIA IMMO
+    - CORBEI,CORBEIL-ESSONNES,Programmation informatique,0 salarié,4.6/nAPIXIT,LES-ULIS,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nUNIVERSITE PARIS SACLAY
+    - GIF-,GIF-SUR-YVETTE,Enseignement supérieur,0 salarié,3.9/nPI ELECTRONIQUE
+    - VILLEBON-,VILLEBON-SUR-YVETTE,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),50 à 99 salariés,3.7/nVIPS FRANCE,LISSES,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),20 à 49 salariés,3.7/nATEMPO,MASSY,Edition de logiciels applicatifs,50 à 99 salariés,4.2/nREDOPUS,EVRY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nLES MOUSQUETAIRES
+    - VER,VERT-LE-GRAND,Conseil pour les affaires et autres conseils de gestion,200 à 249 salariés,3.5/nX-FAB FRANCE
+    - CORBEI,CORBEIL-ESSONNES,Fabrication de composants électroniques,500 à 999 salariés,4.0/nCOMEARTH,ORSAY,Conseil pour les affaires et autres conseils de gestion,100 à 199 salariés,4.5/nCEA CENTRE DE BRUYERES LE CHATEL
+    - BRUYERES,BRUYERES-LE-CHATEL,Recherche-développement en autres sciences physiques et naturelles,2 000 à 4 999 salariés,3.4/nTESSI EDITIQUE
+    -,LONGJUMEAU,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.4/nAMA ASSOCIATES,ORSAY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nINFOVISTA SAS,MASSY,Édition de logiciels système et de réseau,0 salarié,3.3/nCNRS MOY400 ILE-DE-FRANCE GIF-SUR-YVETTE
+    - GIF-,GIF-SUR-YVETTE,Recherche-développement en sciences humaines et sociales,2 000 à 4 999 salariés,4.2/nCEA SACLAY
+    - S,SAINT-AUBIN,Recherche-développement en autres sciences physiques et naturelles,5 000 à 9 999 salariés,4.4/nNBTECH,LES-ULIS,Ingénierie, études techniques,50 à 99 salariés,3.3/nDBF QUALITE,EVRY,Programmation informatique,0 salarié,3.6/nGETIR FRANCE
+    - NEUILLY,NEUILLY-SUR-SEINE,Programmation informatique,0 salarié,4.7/nDOCTOLIB
+    - LEVALL,LEVALLOIS-PERRET,Programmation informatique,0 salarié,4.7/nPROSERVIA,NANTERRE,Conseil en systèmes et logiciels informatiques,1 000 à 1 999 salariés,4.5/nALTEN SYSTEMES D'INFORMATION ET RESEAUX
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nHARDIS GROUPE,PUTEAUX,Programmation informatique,100 à 199 salariés,4.5/nAIXIAL
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.5/nJEMS LABS
+    - NEUILLY,NEUILLY-SUR-SEINE,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.5/nVISEO
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,500 à 999 salariés,4.5/nADAMING CONSEIL,PUTEAUX,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.4/nGALITT
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nORACLE FRANCE,COLOMBES,Edition de logiciels applicatifs,500 à 999 salariés,4.2/nBUSINESS & DECISION FRANCE,NANTERRE,Conseil en systèmes et logiciels informatiques,0 salarié,4.4/nANETYS NORD - ANETYS SUD EST - ANETYS SU,SURESNES,Edition de logiciels applicatifs,20 à 49 salariés,4.4/nMWM
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Edition de logiciels applicatifs,20 à 49 salariés,4.2/nAUBAY
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,2 000 à 4 999 salariés,4.6/nMETALINE DATA CENTER SERVICES,NANTERRE,Ingénierie, études techniques,0 salarié,4.1/nIVIDATA STATS
+    - LEVALL,LEVALLOIS-PERRET,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.4/nFEEDBACK
+    -,COURBEVOIE,Autres activités informatiques,500 à 999 salariés,4.3/nAVANADE FRANCE
+    - ISSY-LES-,ISSY-LES-MOULINEAUX,Programmation informatique,500 à 999 salariés,4.4/nSOCIETE CAST,MEUDON,Edition de logiciels outils de développement et de langages,100 à 199 salariés,4.2/nAPT-SYS-MALLYANCE,BAGNOLET,Programmation informatique,20 à 49 salariés,4.4/nRESEAU-SOLUTION INTERNET TELECOM INTER
+    - S,SAINT-DENIS,Autres activités de télécommunication,100 à 199 salariés,4.4/nPOLE EMPLOI DR ILE DE FRANCE
+    - NOIS,NOISY-LE-GRAND,Administration publique (tutelle) des activités économiques,500 à 999 salariés,4.5/nLOGIQUE IMMOSOFT
+    - S,SAINT-DENIS,Programmation informatique,1 ou 2 salariés,4.5/nSTAFFMATCH
+    -,SAINT-OUEN,Programmation informatique,6 à 9 salariés,4.4/nASSOCIATION ENVERGURE
+    - AULNAY,AULNAY-SOUS-BOIS,Formation continue d'adultes,50 à 99 salariés,4.1/nTESSI CHEQUE ILE DE FRANCE
+    -,MONTREUIL,Traitement de données, hébergement et activités connexes,50 à 99 salariés,4.4/nSPACELY STOCKAGE
+    -,SAINT-OUEN,Programmation informatique,1 ou 2 salariés,3.8/nAGENCE DE FUNDRAISING-FACE A FACE-FORMAT,BONDY,Conseil en relations publiques et communication,10 à 19 salariés,3.9/nSAAYCOM
+    - S,SAINT-DENIS,Tierce maintenance de systèmes et d’applications informatiques,0 salarié,4.0/nKAROIL
+    -,MONTREUIL,Tierce maintenance de systèmes et d’applications informatiques,20 à 49 salariés,3.6/nXANDRIE,PANTIN,Portails Internet,20 à 49 salariés,3.8/nITNOVEM ( FILIALE SNCF)
+    - S,SAINT-DENIS,Edition de logiciels applicatifs,100 à 199 salariés,3.8/nEVA
+    -,MONTREUIL,Programmation informatique,0 salarié,3.6/nSALVIA DEVELOPPEMENT
+    - AUB,AUBERVILLIERS,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nHYPERLEX
+    -,SAINT-OUEN,Edition de logiciels applicatifs,3 à 5 salariés,3.8/nALLIANZ TECHNOLOGY
+    -,SAINT-OUEN,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nIBM INTERACTIVE
+    - NOIS,NOISY-LE-GRAND,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nCALLIOPE BUSINESS SOLUTIONS
+    - S,SAINT-DENIS,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.1/nWTH
+    - TREMBLAY,TREMBLAY-EN-FRANCE,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nHN SERVICES - HN FORMATION - HN RECRUTEM
+    - CHARENT,CHARENTON-LE-PONT,Conseil en systèmes et logiciels informatiques,500 à 999 salariés,4.6/nIZENCIA
+    - IVRY,IVRY-SUR-SEINE,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.5/nCIRCET DISTRIBUTION
+    - CHO,CHOISY-LE-ROI,Programmation informatique,0 salarié,4.5/nSHINE
+    - BONNEUIL,BONNEUIL-SUR-MARNE,Autres activités de soutien aux entreprises nca,0 salarié,3.8/nIT LINK SYSTEM
+    - LE-KREML,LE-KREMLIN-BICETRE,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nADDEXPERT
+    - SAINT-MAUR-,SAINT-MAUR-DES-FOSSES,Autres activités de soutien aux entreprises nca,50 à 99 salariés,3.8/nCARTADIS
+    - FONTENAY,FONTENAY-SOUS-BOIS,Fabrication d'ordinateurs et d'équipements périphériques,50 à 99 salariés,3.5/nVIVERIS TECHNOLOGIES,RUNGIS,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nCITY ONE ACCUEIL PASSAGER,ORLY,Autres activités de soutien aux entreprises nca,50 à 99 salariés,4.5/nSKELLO
+    -,VINCENNES,Edition de logiciels applicatifs,20 à 49 salariés,4.4/nECO INVESTMENT
+    - IVRY,IVRY-SUR-SEINE,Activités spécialisées, scientifiques et techniques diverses,0 salarié,3.5/nCNRS MOY100 ILE-DE-FRANCE VILLEJUIF
+    -,VILLEJUIF,Recherche-développement en sciences humaines et sociales,2 000 à 4 999 salariés,3.7/nCITIMA
+    - S,SAINT-MANDE,Programmation informatique,0 salarié,3.1/nHAPPYPAL
+    - S,SAINT-MANDE,Programmation informatique,0 salarié,3.8/nSTA PORTAGE
+    - MAIS,MAISONS-ALFORT,Autres activités de soutien aux entreprises nca,20 à 49 salariés,3.8/nMEDIALIS
+    - FONTENAY,FONTENAY-SOUS-BOIS,Edition de logiciels applicatifs,20 à 49 salariés,3.7/nLIBEO
+    -,VINCENNES,Programmation informatique,0 salarié,4.4/nOFFICE FRANCAIS DE LA BIODIVERSITE
+    -,VINCENNES,Administration publique (tutelle) des activités économiques,0 salarié,3.4/nBLOOMIN
+    - S,SAINT-MANDE,Programmation informatique,20 à 49 salariés,3.8/nNTT FRANCE,RUNGIS,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nATOS MANAGEMENT FRANCE,BEZONS,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.1/nWORLDLINE FRANCE,BEZONS,Conseil en systèmes et logiciels informatiques,0 salarié,4.1/nINFODIS IT
+    - ROISSY,ROISSY-EN-FRANCE,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.7/nCOFELY ALS
+    - ROISSY,ROISSY-EN-FRANCE,Ingénierie, études techniques,50 à 99 salariés,3.6/nEUROCOM ENERGIE
+    - VILLI,VILLIERS-LE-BEL,Autres activités de télécommunication,10 à 19 salariés,3.5/nPMPC
+    - SAINT-OUE,SAINT-OUEN-L-AUMONE,Tierce maintenance de systèmes et d’applications informatiques,6 à 9 salariés,4.0/n1G-LINK CONSULTING,BEZONS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.7/nSTEPHYA CONCEPTS
+    - SAINT-OUE,SAINT-OUEN-L-AUMONE,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nLITTLE WORKER
+    -,HEDOUVILLE,Programmation informatique,1 ou 2 salariés,4.4/nTORIN & CIE
+    - GOU,GOUSSAINVILLE,Conseil pour les affaires et autres conseils de gestion,1 ou 2 salariés,3.5/nADREXO
+    - SAINT-LE,SAINT-LEU-LA-FORET,Activités des agences de publicité,100 à 199 salariés,3.1/nANEXYS
+    - GARGES-L,GARGES-LES-GONESSE,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.4/nRIO MANAGED SERVICES
+    - PUISEU,PUISEUX-PONTOISE,Programmation informatique,0 salarié,4.6/nKN CONSULTING
+    - SAI,SAINT-GRATIEN,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nWORLDCONNEXION
+    - SAINT-BRICE-,SAINT-BRICE-SOUS-FORET,Autres activités informatiques,0 salarié,3.7/nSG PROD
+    -,LE-THILLAY,Programmation informatique,0 salarié,3.1/nINMAC WSTORE
+    - ROISSY,ROISSY-EN-FRANCE,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,250 à 499 salariés,4.1/nENSOPCO,DOMONT,Portails Internet,0 salarié,2.8/nDOCAPOSTE BPO,CERGY,Traitement de données, hébergement et activités connexes,100 à 199 salariés,3.4/nSINAPEL
+    -,ARGENTEUIL,Télécommunications filaires,0 salarié,2.8/nCONNEKT4
+    - S,SAINT-DENIS,Programmation informatique,0 salarié,3.6/nALIZES DEVELOPPEMENT
+    - S,SAINTE-ANNE,Conseil en relations publiques et communication,0 salarié,3.4/nBCCL ACCESS TO SUCCESS
+    -,LES-ABYMES,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nAGYRH CONSULTING
+    - BA,BAIE-MAHAULT,Programmation informatique,0 salarié,3.1/nZEOP MOBILE,LE-PORT,Télécommunications sans fil,0 salarié,3.5/nSAS NOUTDOC SOLUTION
+    -,SAINT-LEU,Edition de logiciels applicatifs,0 salarié,3.4/nHUMAPRO
+    -,SAINT-PAUL,Programmation informatique,0 salarié,4.1/nPIL-MEDIA
+    - L,LE-LAMENTIN,Programmation informatique,1 ou 2 salariés,3.1/nNIXIA ENGINEERING SYSTEM,LE-PORT,Tierce maintenance de systèmes et d’applications informatiques,3 à 5 salariés,3.8/nSECTION MORIN DESMARAIS
+    - B,BASSE-TERRE,Administration publique (tutelle) des activités économiques,100 à 199 salariés,3.0/nA.R.M.E.F.L.HOR.
+    - SA,SAINT-PIERRE,Activités spécialisées, scientifiques et techniques diverses,20 à 49 salariés,3.0/nM'GIALA-TELECOM,LE-MARIN,Autres activités informatiques,0 salarié,2.8/nSTRATEGIE INFORMATIQUE
+    -,LES-ABYMES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.0/nADRUN
+    - S,SAINT-DENIS,Programmation informatique,10 à 19 salariés,3.1/nMADI'DEV CTRE DE FORMATIONS  NUMERIQUE,
+    - FORT,FORT-DE-FRANCE,Formation continue d'adultes,6 à 9 salariés,2.8/nNOVATEC GUADELOUPE
+    - BA,BAIE-MAHAULT,Autres activités informatiques,6 à 9 salariés,2.8/nINSTITUT PASTEUR DE GUYANE,CAYENNE,Recherche-développement en autres sciences physiques et naturelles,50 à 99 salariés,2.7/nSOCIETE DE RECYCLAGE ET DE RECONDITIONNE
+    - S,SAINT-DENIS,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,6 à 9 salariés,2.7/nBEELIZ
+    - BA,BAIE-MAHAULT,Programmation informatique,0 salarié,3.6/nAVANT-GARDE OUTRE MER,CAYENNE,Tierce maintenance de systèmes et d’applications informatiques,0 salarié,3.1/nDEEZER,PARIS-09,Programmation informatique,0 salarié,4.1/nCHRISTOPHE AMALRIC
+    - A,ALFORTVILLE,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nJENKAA,PARIS-02,Programmation informatique,0 salarié,4.4/nFREE MOBILE,PARIS-08,Télécommunications sans fil,500 à 999 salariés,4.5/nDIGITAL CLASSIFIEDS FRANCE,PARIS-18,Portails Internet,50 à 99 salariés,3.9/nBADAKAN PLACEMENT,PARIS-16,Activités des agences de travail temporaire,0 salarié,4.4/nPARTOO,PARIS-18,Édition de logiciels système et de réseau,0 salarié,4.4/nNEXEO CONSULTING,PARIS-08,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.1/nSCALE YOU UP,PARIS-08,Programmation informatique,0 salarié,4.0/nCAJOO TECHNOLOGY,PARIS-08,Vente à distance sur catalogue spécialisé,0 salarié,3.9/nTALENT CLUB,PARIS-09,Programmation informatique,0 salarié,4.0/nMOONGROUP,PARIS-08,Edition de logiciels applicatifs,0 salarié,4.2/nINSERM SIEGE,PARIS-13,Recherche-développement en autres sciences physiques et naturelles,500 à 999 salariés,4.2/nWEDOOGIFT,PARIS-08,Programmation informatique,0 salarié,4.1/nCIZOO ADG, CIZOO,PARIS-20,Programmation informatique,0 salarié,3.8/nBOTIFY,PARIS-08,Édition de logiciels système et de réseau,0 salarié,4.0/nLOUNNA,PARIS-06,Programmation informatique,1 ou 2 salariés,4.1/nGENERIX GROUP,PARIS-12,Edition de logiciels applicatifs,200 à 249 salariés,4.2/nROCKETZ LAB LTD,PARIS-08,Autres activités informatiques,0 salarié,3.7/nECONOMIE D'ENERGIE,PARIS-17,Conseil en relations publiques et communication,200 à 249 salariés,3.6/nATTINEOS INFRASTRUCTURES
+    - MONT-SA,MONT-SAINT-AIGNAN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.4/nWYNIWYG
+    - BOIS,BOIS-GUILLAUME,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.9/nSECURILOG,LE-HAVRE,Autre mise à disposition de ressources humaines,100 à 199 salariés,3.3/nASS GESTION INSTITUT FORMAT EDUCAT NOR,LE-HAVRE,Enseignement supérieur,20 à 49 salariés,3.4/nSAS ETADIS
+    -,ETALONDES,Vente à distance sur catalogue général,10 à 19 salariés,3.6/nDIGIT NORMANDIE
+    - LE-PETI,LE-PETIT-QUEVILLY,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.9/nDESSIN CONCEPTION COMMUNICATION SARL,LE-HAVRE,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.6/nSOGET,LE-HAVRE,Edition de logiciels applicatifs,100 à 199 salariés,3.7/nEURL JLPI
+    - H,HATTENVILLE,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.0/nWYZEN,LE-HAVRE,Edition de logiciels applicatifs,0 salarié,3.0/nPONTOON
+    - I,ISNEAUVILLE,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,3.8/nAGENCE NATIONALE POUR LA FORMATION PROFE
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Formation continue d'adultes,0 salarié,2.8/nPROSPECTUS MAILING ADRESSE BAL GEOMARK,CANTELEU,Activités des agences de publicité,100 à 199 salariés,3.1/nPROXIAD AXE SEINE,ROUEN,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,3.9/nWEB ET SOLUTIONS
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Edition de logiciels applicatifs,50 à 99 salariés,3.7/nHENOSIS,ROUEN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nFORTIL NORMANDIE,ROUEN,Ingénierie, études techniques,0 salarié,2.7/nTOSHIBA TEC EUROPE IMAGING SYSTEMS SA
+    - MAR,MARTIN-EGLISE,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),200 à 249 salariés,3.0/nUNIVERSITE LE HAVRE NORMANDIE,LE-HAVRE,Enseignement supérieur,500 à 999 salariés,2.7/nADREXO
+    - SAINT-ETIENNE-,SAINT-ETIENNE-DU-ROUVRAY,Activités des agences de publicité,100 à 199 salariés,3.8/nTESSI/ACCES INFORMATIQUES,AVON,Traitement de données, hébergement et activités connexes,100 à 199 salariés,4.5/nONE EXPERT,SERRIS,Programmation informatique,0 salarié,3.6/nUPPER LINK,LOGNES,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.1/nGROUPE TENOR,SERRIS,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,3.4/nEXELA,NOISIEL,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nDELTA CE
+    - BRIE-CO,BRIE-COMTE-ROBERT,Edition de logiciels applicatifs,3 à 5 salariés,3.7/nRENDR SOFTWORKS
+    - DAMMARTI,DAMMARTIN-EN-GOELE,Programmation informatique,0 salarié,3.6/nHOURA HOURRA OURA OURRA KIDIWI VINARTIS
+    - BUSSY-SAI,BUSSY-SAINT-GEORGES,Vente à distance sur catalogue général,250 à 499 salariés,3.3/nGERMOND GROSSISTE PRINT
+    - FERRIER,FERRIERES-EN-BRIE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nCERBERE CONSULTING
+    - ROIS,ROISSY-EN-BRIE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nOPERANTIC
+    -,CHALIFERT,Programmation informatique,20 à 49 salariés,3.1/nAPPLIWAVE
+    - CROISSY,CROISSY-BEAUBOURG,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nATF GAIA
+    - MOISS,MOISSY-CRAMAYEL,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,50 à 99 salariés,3.3/nSARDEL CONSEIL
+    - SA,SAINT-SIMEON,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.6/nMAGIC POCKETS,TORCY,Programmation informatique,10 à 19 salariés,3.6/nLCV MULTIMEDIA
+    - BUSSY-SAI,BUSSY-SAINT-GEORGES,Programmation informatique,10 à 19 salariés,3.1/nBOTMIND
+    - ARBONN,ARBONNE-LA-FORET,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nOXAND,AVON,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.0/nSAFRAN AIRCRAFT ENGINES,REAU,Construction aéronautique et spatiale,5 000 à 9 999 salariés,2.5/nPHARMESPACE,CHESSY,Edition de logiciels applicatifs,10 à 19 salariés,3.0/nINSIEMA
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Traitement de données, hébergement et activités connexes,250 à 499 salariés,4.5/nATMOSPHERES
+    - B,BOIS-D-ARCY,Activités des agences de publicité,100 à 199 salariés,4.3/nSERVICE INNOVATION GROUP FRANCE
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Activités des agences de publicité,250 à 499 salariés,4.3/nGE HEALTHCARE,BUC,Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques,1 000 à 1 999 salariés,3.8/nINRAE JOUY
+    - JOU,JOUY-EN-JOSAS,Recherche-développement en autres sciences physiques et naturelles,500 à 999 salariés,3.7/nAVENAO SOLUTIONS 3D
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,3.9/nPENELOPE L'AGENCE
+    -,GUYANCOURT,Autres activités de soutien aux entreprises nca,2 000 à 4 999 salariés,4.5/nCS NOVIDY'S
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.1/nBEA IT
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nATEME
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Edition de logiciels applicatifs,100 à 199 salariés,3.4/nOSMOZIUM
+    -,VERSAILLES,Conseil en systèmes et logiciels informatiques,0 salarié,3.7/nINTERNET FACTORY,TRAPPES,Programmation informatique,1 ou 2 salariés,3.6/nSEDI,TRAPPES,Traitement de données, hébergement et activités connexes,0 salarié,3.4/nADAM COM
+    - MANTE,MANTES-LA-JOLIE,Télécommunications filaires,0 salarié,3.4/nSIPEARL
+    - MAISON,MAISONS-LAFFITTE,Fabrication d'ordinateurs et d'équipements périphériques,20 à 49 salariés,3.3/nBOUYGUES CONSTRUCTION IT
+    -,GUYANCOURT,Tierce maintenance de systèmes et d’applications informatiques,250 à 499 salariés,4.0/nINLEED
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Programmation informatique,3 à 5 salariés,3.1/n1 LIFE
+    - MONTIGNY-LE-,MONTIGNY-LE-BRETONNEUX,Edition de logiciels applicatifs,0 salarié,3.0/nAVANTEAM
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Edition de logiciels applicatifs,0 salarié,3.0/nINSIGHT TECHNOLOGY SOLUTIONS S.A.S
+    - VELIZY-VI,VELIZY-VILLACOUBLAY,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,3.4/nCGI FRANCE,NIORT,Conseil en systèmes et logiciels informatiques,0 salarié,4.1/nCAPGEMINI TECHNOLOGY SERVICES,NIORT,Conseil en systèmes et logiciels informatiques,,4.4/nIDEM SANTE,CHAURAY,Edition de logiciels applicatifs,10 à 19 salariés,4.4/nTECODATA
+    - FRONTENAY-R,FRONTENAY-ROHAN-ROHAN,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.4/nGIE EUROPAC,CHAURAY,Autres activités de soutien aux entreprises nca,500 à 999 salariés,4.4/nSATELIX
+    -,BRESSUIRE,Programmation informatique,10 à 19 salariés,3.1/nCAT-AMANIA,CHAURAY,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nAUSY,CHAURAY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.4/nGFT FRANCE SAS,NIORT,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nBLS SERVICES
+    -,LA-CRECHE,Autres activités de soutien aux entreprises nca,20 à 49 salariés,2.8/nSTARIS,NIORT,Programmation informatique,10 à 19 salariés,3.1/nSTIMUT INFORMATIQUE,CHAURAY,Programmation informatique,6 à 9 salariés,3.1/nDUOTECH
+    -,BRESSUIRE,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.0/nSTRADA
+    -,BRESSUIRE,Edition de logiciels applicatifs,20 à 49 salariés,3.0/nAMILTONE,NIORT,Ingénierie, études techniques,1 ou 2 salariés,2.7/n123COUSEZ
+    - LA-FORET,LA-FORET-SUR-SEVRE,Vente à distance sur catalogue spécialisé,0 salarié,2.7/nKONVERSEO,NIORT,Conseil en relations publiques et communication,0 salarié,2.5/nMEDIAPOST,CHAURAY,Activités des agences de publicité,50 à 99 salariés,2.8/nDARVA,CHAURAY,Traitement de données, hébergement et activités connexes,100 à 199 salariés,2.5/nAPX HOPEN SYNSTAR - HOPEN,NIORT,Tierce maintenance de systèmes et d’applications informatiques,10 à 19 salariés,2.7/nEVOLUCARE TECHNOLOGIES,BOVES,Programmation informatique,0 salarié,4.0/nCORWIN
+    - VILLERS-,VILLERS-BRETONNEUX,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nBOW MEDICAL,AMIENS,Programmation informatique,0 salarié,4.1/nCGI,AMIENS,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.6/nLOGIGAZ-NORD,AMIENS,Conseil pour les affaires et autres conseils de gestion,0 salarié,3.8/nI N M C IDEATION INFORMATIQUE
+    - VILLERS-,VILLERS-BRETONNEUX,Édition de logiciels système et de réseau,6 à 9 salariés,3.3/nYWC,AMIENS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nECS 80
+    - QUE,QUEVAUVILLERS,Ingénierie, études techniques,50 à 99 salariés,2.5/nASS VIMEU INSERTION FORMA JEUN,CHEPY,Formation continue d'adultes,50 à 99 salariés,2.5/nCLEMENTINE SOLUTIONS NUMERIQUES,AMIENS,Autres activités informatiques,0 salarié,2.8/nA.R. ASSOCIES,AMIENS,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.8/nNORD-IMAGE
+    -,ABBEVILLE,Conseil en relations publiques et communication,10 à 19 salariés,2.5/nASS SOMME MULTI ACTIVITES
+    -,ABBEVILLE,Autres activités de soutien aux entreprises nca,50 à 99 salariés,3.5/n161,BOVES,Programmation informatique,1 ou 2 salariés,2.5/nA CAPPELLA,AMIENS,Autres activités de soutien aux entreprises nca,0 salarié,2.5/nAG CNAM,AMIENS,Enseignement supérieur,50 à 99 salariés,2.5/nDIFFUSION BUREAUTIQUE SOMME,GLISY,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,20 à 49 salariés,2.5/nNILOBSTAT,AMIENS,Programmation informatique,3 à 5 salariés,2.5/nGROUPE SILVER GENERATION
+    - BLANGY,BLANGY-TRONVILLE,Portails Internet,0 salarié,2.8/nMERSEN FRANCE AMIENS SAS,AMIENS,Fabrication d'autres matériels électriques,250 à 499 salariés,2.5/nINC
+    - CAMBOUNET-,CAMBOUNET-SUR-LE-SOR,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,3.8/nSPARTEARTH
+    - SAINT-SULPICE,SAINT-SULPICE-LA-POINTE,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nAS DE COEUR,ALBI,Autres activités d'édition,1 ou 2 salariés,3.1/nE.B.S. ENERGIE,CASTRES,Activités spécialisées, scientifiques et techniques diverses,3 à 5 salariés,3.1/nLABRUGUIERE,CASTRES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.6/nCRYPTEO
+    - MARSSA,MARSSAC-SUR-TARN,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nENCIRIS TECHNOLOGIES,GAILLAC,Programmation informatique,6 à 9 salariés,3.1/nSMAD
+    -,LE-GARRIC,Administration publique (tutelle) des activités économiques,20 à 49 salariés,2.7/nVRAI STUDIO SAS,CAMBON,Programmation informatique,3 à 5 salariés,2.5/nSOC LANGUEDOCIENNE D'INFORMATIQUE,CASTRES,Traitement de données, hébergement et activités connexes,10 à 19 salariés,2.8/nQASI,GRAULHET,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,3 à 5 salariés,2.8/nPERLES AND CO,ALBI,Vente à distance sur catalogue spécialisé,50 à 99 salariés,2.5/nEREGROUPE
+    - LESCURE-D,LESCURE-D-ALBIGEOIS,Programmation informatique,3 à 5 salariés,2.5/nAFIGEC INFORMATIQUE,CASTRES,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,6 à 9 salariés,3.0/nKOOKLIN,MAZAMET,Programmation informatique,6 à 9 salariés,3.1/nINSERT SOLUTIONS EI,CASTRES,Formation continue d'adultes,10 à 19 salariés,3.6/nRUAG DEFENCE FRANCE,TERSSAC,Fabrication d'instrumentation scientifique et technique,50 à 99 salariés,2.7/nKAURIWEB,CASTRES,Programmation informatique,10 à 19 salariés,2.5/nOTHERS SIDES,ALBI,Programmation informatique,0 salarié,2.5/nIMS NETWORKS,CASTRES,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nGIE AGORA
+    -,MONTAUBAN,Programmation informatique,250 à 499 salariés,4.0/nD.S.I.
+    - VERDUN-S,VERDUN-SUR-GARONNE,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,3.0/nFLTE
+    -,MONTAUBAN,Télécommunications filaires,10 à 19 salariés,2.8/nCRISARTECH,MONTEILS,Programmation informatique,1 ou 2 salariés,2.5/nBODET SOFTWARE,MOLIERES,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nPROSPECTUS MAILING ADRESSE BAL GEOMARK
+    -,MONTAUBAN,Activités des agences de publicité,100 à 199 salariés,2.5/nPUBLI SERVICES
+    - BEAUMONT-,BEAUMONT-DE-LOMAGNE,Activités des agences de publicité,3 à 5 salariés,2.5/nONET TECHNOLOGIES TI GOLFECH,GOLFECH,Ingénierie, études techniques,0 salarié,2.5/nSARL NEWCO,MOISSAC,Fonds de placement et entités financières similaires,0 salarié,2.5/nPROOFTAG
+    -,MONTAUBAN,Activités spécialisées, scientifiques et techniques diverses,20 à 49 salariés,2.5/nBOUYER INDUSTRIE
+    -,MONTAUBAN,Fabrication de produits électroniques grand public,20 à 49 salariés,2.5/nPROM STRATEGIE,CAMPSAS,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nIRIAN TECHNOLOGIES,MOISSAC,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nSODECAL SOCIAL RH
+    -,MONTAUBAN,Traitement de données, hébergement et activités connexes,20 à 49 salariés,2.7/nTECHNIC-LEV
+    - HO,HONOR-DE-COS,Activités spécialisées, scientifiques et techniques diverses,1 ou 2 salariés,2.5/nSARL INDY SYSTEM
+    -,MONTAUBAN,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,10 à 19 salariés,2.5/nSDEI
+    -,MONTAUBAN,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,2.7/nETABLISSEMENTS ERIC BACH,LAUZERTE,Fabrication de produits électroniques grand public,1 ou 2 salariés,2.5/nSYNOPTYC
+    -,MONTAUBAN,Ingénierie, études techniques,0 salarié,2.5/nSCOPELEC
+    -,MONTAUBAN,Fabrication d'équipements de communication,0 salarié,3.6/nLILY OF THE VALLEY
+    - LA-CR,LA-CROIX-VALMER,Activités des sièges sociaux,0 salarié,4.2/nLA BOITE IMMO,HYERES,Programmation informatique,0 salarié,4.5/nFMA
+    -,POURRIERES,Activités des agences de publicité,20 à 49 salariés,4.3/nLECLERC DRIVE
+    - LA-VALE,LA-VALETTE-DU-VAR,Vente à distance sur catalogue général,20 à 49 salariés,4.1/nAWA FIBRE
+    - LA-SEY,LA-SEYNE-SUR-MER,Autres activités de télécommunication,0 salarié,3.5/nLA WEBBOX
+    - SA,SAINT-TROPEZ,Programmation informatique,0 salarié,3.8/nKONTRON MODULAR COMPUTERS SA,LA-GARDE,Fabrication d'ordinateurs et d'équipements périphériques,50 à 99 salariés,3.5/nADREXO,FREJUS,Activités des agences de publicité,50 à 99 salariés,3.5/nCSI
+    - SAI,SAINT-RAPHAEL,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),20 à 49 salariés,4.4/nSECOV RH
+    - L,LE-BEAUSSET,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nPROSPECTUS MAILING ADRESSE BAL GEOMARK
+    - LA-VALE,LA-VALETTE-DU-VAR,Activités des agences de publicité,100 à 199 salariés,3.5/nMOOTION,TOULON,Programmation informatique,0 salarié,3.6/nHOTEL BYBLOS
+    - SA,SAINT-TROPEZ,Hôtels et hébergement similaire,20 à 49 salariés,3.6/nFAROS
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,6 à 9 salariés,4.4/nBEXTER
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,10 à 19 salariés,4.0/nGENTEL GLOBAL SOLUTIONS
+    - LA-VALE,LA-VALETTE-DU-VAR,Programmation informatique,0 salarié,3.1/nCENTRE INFORMATIQUE DE TRAITEMENT
+    - LA-SEY,LA-SEYNE-SUR-MER,Traitement de données, hébergement et activités connexes,0 salarié,3.4/nGMS,CUERS,Autres activités de télécommunication,100 à 199 salariés,3.1/nLOULOU BEACH
+    - SA,SAINT-TROPEZ,Activités des sièges sociaux,0 salarié,3.6/nDMI SYSTEMES
+    - LA-SEY,LA-SEYNE-SUR-MER,Programmation informatique,10 à 19 salariés,3.1/nS2P WEB
+    -,CAVAILLON,Édition de logiciels système et de réseau,10 à 19 salariés,4.4/nEURL VERTUOZ,AVIGNON,Programmation informatique,0 salarié,3.6/nHUMANROADS,AVIGNON,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.7/nB2PWEB
+    -,CAVAILLON,Edition de logiciels applicatifs,50 à 99 salariés,4.2/nTUT TUT,AVIGNON,Portails Internet,0 salarié,3.8/nKIZEO,AVIGNON,Edition de logiciels applicatifs,20 à 49 salariés,4.2/nC.B.A INFORMATIQUE LIBERALE,AVIGNON,Edition de logiciels applicatifs,100 à 199 salariés,4.5/nANTIBIA,MONTEUX,Programmation informatique,20 à 49 salariés,4.4/nLA BASTIDE DE GORDES,GORDES,Hôtels et hébergement similaire,20 à 49 salariés,2.7/nGRETA VAUCLUSE,AVIGNON,Formation continue d'adultes,100 à 199 salariés,3.6/nAPI C.F.A.I 84,AVIGNON,Enseignement supérieur,20 à 49 salariés,2.5/nLSI SUD INFORMATIQUE,VELLERON,Programmation informatique,10 à 19 salariés,2.5/nEDISSYUM CONSULTING
+    -,CARPENTRAS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nNG VIN,ORANGE,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nL'ENVOL
+    - ISLE-SUR,ISLE-SUR-LA-SORGUE,Autre mise à disposition de ressources humaines,20 à 49 salariés,2.5/nSOFICO SERVICES FRANCE,AVIGNON,Programmation informatique,1 ou 2 salariés,2.5/nMT FRANCE
+    -,CAVAILLON,Activités spécialisées, scientifiques et techniques diverses,50 à 99 salariés,2.5/nDIGITAL EVOLUTION,AVIGNON,Portails Internet,0 salarié,2.5/nHOSTELLERIE LE PHEBUS,JOUCAS,Hôtels et hébergement similaire,6 à 9 salariés,2.5/nVOCAZA,AVIGNON,Edition de logiciels applicatifs,0 salarié,3.0/nFIT LAB
+    -,TIFFAUGES,Programmation informatique,0 salarié,4.4/nHYGIENE EXPERT
+    - LE,LES-HERBIERS,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nGROUPE LACOUR,MONTAIGU,Édition de logiciels système et de réseau,20 à 49 salariés,3.3/nMARKET-DIGIT
+    - FONTENA,FONTENAY-LE-COMTE,Edition de logiciels applicatifs,0 salarié,3.7/nINNLOG
+    - LES-SABLE,LES-SABLES-D-OLONNE,Programmation informatique,20 à 49 salariés,3.6/nSIGAL
+    - LE,LES-HERBIERS,Edition de logiciels applicatifs,20 à 49 salariés,3.0/nWELKOM ENERGY
+    - LA-ROC,LA-ROCHE-SUR-YON,Commerce d'électricité,0 salarié,3.0/nCISTEBOIS
+    - BEAULIEU-SOU,BEAULIEU-SOUS-LA-ROCHE,Activités spécialisées de design,20 à 49 salariés,3.0/nFAIRSON INVENTAIRE,CHALLANS,Autres activités de soutien aux entreprises nca,50 à 99 salariés,2.8/nACP SERVICES
+    - MORTAGNE,MORTAGNE-SUR-SEVRE,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,4.0/nOZERIM
+    - LA-ROC,LA-ROCHE-SUR-YON,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,2.7/nICES - INSTITUT CATHO ETUDES SUPERIEURES
+    - LA-ROC,LA-ROCHE-SUR-YON,Enseignement supérieur,100 à 199 salariés,3.0/nOCODE
+    - LA-ROC,LA-ROCHE-SUR-YON,Edition de logiciels applicatifs,6 à 9 salariés,3.0/nARRIVE
+    - SAI,SAINT-FULGENT,Autres activités de soutien aux entreprises nca,200 à 249 salariés,3.1/nFGRIBREAU
+    -,CHANTONNAY,Programmation informatique,0 salarié,2.5/nNEXETO
+    - LA-ROC,LA-ROCHE-SUR-YON,Programmation informatique,3 à 5 salariés,3.6/nSIDUNIS
+    - LA-ROC,LA-ROCHE-SUR-YON,Programmation informatique,1 ou 2 salariés,3.1/nCETH CONCEPTION D'EQUIPEMENTS THERMIQU
+    - LA-CHAPE,LA-CHAPELLE-ACHARD,Ingénierie, études techniques,10 à 19 salariés,2.7/nS.R.D.I. DISTRICART
+    - LA-BOISSIERE-,LA-BOISSIERE-DES-LANDES,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,20 à 49 salariés,2.8/nSIIUM,CHALLANS,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nINTERCOM TECHNOLOGIES
+    -,CHAUVIGNY,Programmation informatique,0 salarié,4.4/nE-QUAL
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Tierce maintenance de systèmes et d’applications informatiques,20 à 49 salariés,3.8/nVIVATICKET
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.1/nRELEVE SERVICE PLUS
+    - SAINT-GENEST,SAINT-GENEST-D-AMBIERE,Autres activités de soutien aux entreprises nca,0 salarié,3.1/nINLEED
+    - J,JAUNAY-CLAN,Programmation informatique,6 à 9 salariés,3.1/nEASYLI
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Activités spécialisées, scientifiques et techniques diverses,0 salarié,3.0/nMISE EN PROD
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nTATA CONSULTANCY SERVICES FRANCE
+    - CHASSENEUIL,CHASSENEUIL-DU-POITOU,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nLIGUE DE L'ENSEIGNEMENT MOUVEMENT LAIQUE,POITIERS,Formation continue d'adultes,100 à 199 salariés,2.5/nCETRAFACT
+    - SA,SAINT-BENOIT,Programmation informatique,6 à 9 salariés,2.5/nEKSAE,LOUDUN,Édition de logiciels système et de réseau,50 à 99 salariés,3.9/nASSISTOVET
+    - J,JAUNAY-CLAN,Edition de logiciels applicatifs,0 salarié,2.5/nEURL ANGEBAULT
+    - NUEIL,NUEIL-SOUS-FAYE,Vente à distance sur catalogue spécialisé,0 salarié,2.5/nRH SOLUTIONS PORTAGE SALARIAL,POITIERS,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.5/nAGIRTS-IRTS POITOU CHARENTES,POITIERS,Enseignement supérieur,100 à 199 salariés,2.5/nPROGIAL INFORMATIQUE,POITIERS,Edition de logiciels applicatifs,10 à 19 salariés,2.5/nASSOCIATION INTERMEDIAIRE L ENVOL,SMARVES,Autre mise à disposition de ressources humaines,100 à 199 salariés,2.5/nCLINSIGHT,POITIERS,Programmation informatique,10 à 19 salariés,2.5/nALTERNETIS,POITIERS,Programmation informatique,0 salarié,3.1/nACEASCOP FORMASCOPE
+    - CHA,CHATELLERAULT,Conseil pour les affaires et autres conseils de gestion,20 à 49 salariés,2.7/nAXYUS,LIMOGES,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nMUST INFORMATIQUE,COUZEIX,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nALTRIA,LIMOGES,Ingénierie, études techniques,6 à 9 salariés,3.0/nGOOMEO,LIMOGES,Édition de logiciels système et de réseau,0 salarié,3.3/nCERIG SA
+    - PIERR,PIERRE-BUFFIERE,Programmation informatique,20 à 49 salariés,3.1/nSARL FIPS
+    - SAINT-SULPICE-LE,SAINT-SULPICE-LES-FEUILLES,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.0/nODB,LIMOGES,Programmation informatique,3 à 5 salariés,2.5/nEMAKINA,LIMOGES,Programmation informatique,50 à 99 salariés,3.1/nMEDIVET LAB,LIMOGES,Edition de logiciels applicatifs,10 à 19 salariés,3.0/nADREXO,LIMOGES,Activités des agences de publicité,100 à 199 salariés,2.8/nA.J.A. PUBLICITE,LIMOGES,Autres activités d'édition,0 salarié,2.5/nLOGIDOC SOLUTIONS,LIMOGES,Traitement de données, hébergement et activités connexes,20 à 49 salariés,2.5/nORANGE,LIMOGES,Télécommunications filaires,250 à 499 salariés,2.5/nAGENCE NATIONALE POUR LA FORMATION PROFE,LIMOGES,Formation continue d'adultes,0 salarié,2.5/nGROUPE SITTI,LIMOGES,Programmation informatique,3 à 5 salariés,3.6/nSPG,LIMOGES,Autres activités de soutien aux entreprises nca,0 salarié,2.5/nAXIONE DPL,LIMOGES,Autres activités de télécommunication,0 salarié,2.7/nATHELL SAS,FEYTIAT,Conseil pour les affaires et autres conseils de gestion,0 salarié,2.5/nPOLARIS FORMATION,ISLE,Formation continue d'adultes,200 à 249 salariés,2.5/nORENCE,LIMOGES,Conseil en systèmes et logiciels informatiques,1 ou 2 salariés,2.5/nVIA MOBILIS
+    -,AMBACOURT,Portails Internet,20 à 49 salariés,3.8/nINOV@,REMOMEIX,Conseil en relations publiques et communication,0 salarié,3.4/nLWS,GOLBEY,Traitement de données, hébergement et activités connexes,10 à 19 salariés,3.4/nIDIWAY
+    -,SAINT-AME,Programmation informatique,3 à 5 salariés,2.5/nFINANCIERE MAUFFREY
+    - SA,SAINT-NABORD,Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, nca,50 à 99 salariés,3.1/nMOREL INGENIERIE
+    - BADMENI,BADMENIL-AUX-BOIS,Ingénierie, études techniques,1 ou 2 salariés,2.7/nSOS INFORMATIQUE 88 SERVICES
+    -,CORNIMONT,Réparation d'ordinateurs et d'équipements périphériques,0 salarié,2.5/nTRANSPORTS BOUQUOT,POUXEUX,Activités des sièges sociaux,20 à 49 salariés,2.5/nSERVICES ASSISTANCE MAINTENANCE INFORM
+    - N,NEUFCHATEAU,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,10 à 19 salariés,3.0/nCASHDEV,VAGNEY,Programmation informatique,10 à 19 salariés,3.8/nIDHOUSSE,ANOULD,Vente à distance sur catalogue général,10 à 19 salariés,2.5/nFMS,EPINAL,Autres activités de soutien aux entreprises nca,20 à 49 salariés,3.1/nPREFABAT
+    -,GERARDMER,Fabrication d'autres matériels électriques,20 à 49 salariés,2.5/nINSTITUTS DE FORMATION EN SOINS INFIRM,EPINAL,Enseignement supérieur,20 à 49 salariés,2.5/nAFPA GOLBEY,GOLBEY,Formation continue d'adultes,20 à 49 salariés,2.5/nHOTEL COSMOS
+    - CON,CONTREXEVILLE,Hôtels et hébergement similaire,10 à 19 salariés,2.5/nRAPID SAS
+    - L,LE-SYNDICAT,Autres activités de soutien aux entreprises nca,50 à 99 salariés,2.5/nTHIRIET DISTRIBUTION,ELOYES,Activités des sièges sociaux,20 à 49 salariés,2.5/nITELCOM
+    - RA,RAON-L-ETAPE,Autres activités de soutien aux entreprises nca,20 à 49 salariés,2.5/nSOFT INFO
+    - SAINT-DIE-,SAINT-DIE-DES-VOSGES,Gestion d'installations informatiques,0 salarié,2.5/nHYPERION INFORMATIQUE,APPOIGNY,Autres activités informatiques,3 à 5 salariés,3.5/nE. LECLERC.DRIVE,PERRIGNY,Vente à distance sur catalogue général,20 à 49 salariés,3.3/nVULCANIC
+    - SAINT,SAINT-FLORENTIN,Fabrication d'instrumentation scientifique et technique,50 à 99 salariés,2.8/nMICROMANIA ZING POP CULTURE,AUXERRE,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,0 salarié,2.8/nPEBIX,DOLLOT,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.5/nLABO ICAUNAIS ENCAISSEMENT MONETIQUE,VALLERY,Réparation d'ordinateurs et d'équipements périphériques,20 à 49 salariés,2.5/nID'EES 89,ORMOY,Autres activités de soutien aux entreprises nca,10 à 19 salariés,2.5/nSARL CONTROLE ET MAINTENANCE,SENS,Ingénierie, études techniques,20 à 49 salariés,2.5/nDAPA TECHNOLOGY
+    - CHARNY-OREE-,CHARNY-OREE-DE-PUISAYE,Fabrication d'équipements de communication,10 à 19 salariés,3.3/nADREXO,AUXERRE,Activités des agences de publicité,100 à 199 salariés,2.5/nHITEK PRODUCTION ANIMATION,APPOIGNY,Réparation d'ordinateurs et d'équipements périphériques,3 à 5 salariés,2.5/nANCIENS ETS G.SCHIEVER ET FILS,AVALLON,Activités des sièges sociaux,200 à 249 salariés,2.5/nPAPYHAPPY,JOIGNY,Traitement de données, hébergement et activités connexes,0 salarié,2.5/nEDIES CONSULTING,MONETEAU,Programmation informatique,0 salarié,2.5/nVIRTUA-NETWORKS,AUXERRE,Conseil en systèmes et logiciels informatiques,0 salarié,2.7/nINSTITUT TECHNIQUE GAZ ET AIR,SENS,Activités spécialisées, scientifiques et techniques diverses,3 à 5 salariés,2.5/nCENTRE DISTRIBUTEUR E.LECLERC,MAILLOT,Vente à distance sur catalogue général,10 à 19 salariés,2.5/nESDI EUROPEAN SYSTEM,BELFORT,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.4/nESDI EUROPEAN HELP DESK,BELFORT,Conseil en systèmes et logiciels informatiques,100 à 199 salariés,4.4/nCAPGEMINI TECHNOLOGY SERVICES,MEROUX,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nCFI SERVICES,BELFORT,Conseil en systèmes et logiciels informatiques,6 à 9 salariés,2.7/nIBM INTERACTIVE,BELFORT,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,2.7/nILLICOMAIL ILLICOSHOP ILLICONET
+    -,MORVILLARS,Programmation informatique,3 à 5 salariés,2.5/nALSTOM POWER SYSTEMS SA
+    -,CRAVANCHE,Ingénierie, études techniques,500 à 999 salariés,2.7/nFRANCE TELECOM RECHERCHE ET DEVELOP,BELFORT,Télécommunications filaires,200 à 249 salariés,2.5/nGE ENERGY POWER,BELFORT,Ingénierie, études techniques,200 à 249 salariés,2.5/nEFOR BELFORT,MEROUX,Ingénierie, études techniques,50 à 99 salariés,2.5/nUNIVERSITE TECHNOLOGIE BELFORT MONTBELI,SEVENANS,Enseignement supérieur,250 à 499 salariés,2.5/nINNOVELEC INDUSTRIE
+    -,BAVILLIERS,Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels,20 à 49 salariés,2.5/nALTRAN TECHNOLOGIES,MEROUX,Ingénierie, études techniques,250 à 499 salariés,2.5/nRKF GROUP,BELFORT,Conseil pour les affaires et autres conseils de gestion,6 à 9 salariés,2.5/nAJC INFO,BELFORT,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,2.5/nALSTOM POWER SERVICE,BELFORT,Ingénierie, études techniques,250 à 499 salariés,2.5/nINTERVENTION CLIENT BELFORT BAVILLIERS
+    -,ARGIESANS,Télécommunications filaires,20 à 49 salariés,2.5/nAUCHAN
+    - B,BESSONCOURT,Vente à distance sur catalogue général,250 à 499 salariés,2.5/nGE INTERNATIONAL,BELFORT,Ingénierie, études techniques,0 salarié,2.5/nMINCATEC ENERGY,MEROUX,Activités spécialisées, scientifiques et techniques diverses,0 salarié,2.5/nORANGE BUSINESS SERVICES,MASSY,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.1/nREFLEXE MULTIMEDIA & SERVICES
+    - COU,COURCOURONNES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,4.1/nMEDIA IMMO
+    - CORBEI,CORBEIL-ESSONNES,Programmation informatique,0 salarié,4.6/nAPIXIT,LES-ULIS,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nUNIVERSITE PARIS SACLAY
+    - GIF-,GIF-SUR-YVETTE,Enseignement supérieur,0 salarié,3.9/nPI ELECTRONIQUE
+    - VILLEBON-,VILLEBON-SUR-YVETTE,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),50 à 99 salariés,3.7/nVIPS FRANCE,LISSES,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),20 à 49 salariés,3.7/nATEMPO,MASSY,Edition de logiciels applicatifs,50 à 99 salariés,4.2/nREDOPUS,EVRY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.9/nLES MOUSQUETAIRES
+    - VER,VERT-LE-GRAND,Conseil pour les affaires et autres conseils de gestion,200 à 249 salariés,3.5/nX-FAB FRANCE
+    - CORBEI,CORBEIL-ESSONNES,Fabrication de composants électroniques,500 à 999 salariés,4.0/nCOMEARTH,ORSAY,Conseil pour les affaires et autres conseils de gestion,100 à 199 salariés,4.5/nCEA CENTRE DE BRUYERES LE CHATEL
+    - BRUYERES,BRUYERES-LE-CHATEL,Recherche-développement en autres sciences physiques et naturelles,2 000 à 4 999 salariés,3.4/nTESSI EDITIQUE
+    -,LONGJUMEAU,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.4/nAMA ASSOCIATES,ORSAY,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nINFOVISTA SAS,MASSY,Édition de logiciels système et de réseau,0 salarié,3.3/nCNRS MOY400 ILE-DE-FRANCE GIF-SUR-YVETTE
+    - GIF-,GIF-SUR-YVETTE,Recherche-développement en sciences humaines et sociales,2 000 à 4 999 salariés,4.2/nCEA SACLAY
+    - S,SAINT-AUBIN,Recherche-développement en autres sciences physiques et naturelles,5 000 à 9 999 salariés,4.4/nNBTECH,LES-ULIS,Ingénierie, études techniques,50 à 99 salariés,3.3/nDBF QUALITE,EVRY,Programmation informatique,0 salarié,3.6/nGETIR FRANCE
+    - NEUILLY,NEUILLY-SUR-SEINE,Programmation informatique,0 salarié,4.7/nDOCTOLIB
+    - LEVALL,LEVALLOIS-PERRET,Programmation informatique,0 salarié,4.7/nPROSERVIA,NANTERRE,Conseil en systèmes et logiciels informatiques,1 000 à 1 999 salariés,4.5/nALTEN SYSTEMES D'INFORMATION ET RESEAUX
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nHARDIS GROUPE,PUTEAUX,Programmation informatique,100 à 199 salariés,4.5/nAIXIAL
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.5/nJEMS LABS
+    - NEUILLY,NEUILLY-SUR-SEINE,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,4.5/nVISEO
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,500 à 999 salariés,4.5/nADAMING CONSEIL,PUTEAUX,Conseil en systèmes et logiciels informatiques,200 à 249 salariés,4.4/nGALITT
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nORACLE FRANCE,COLOMBES,Edition de logiciels applicatifs,500 à 999 salariés,4.2/nBUSINESS & DECISION FRANCE,NANTERRE,Conseil en systèmes et logiciels informatiques,0 salarié,4.4/nANETYS NORD - ANETYS SUD EST - ANETYS SU,SURESNES,Edition de logiciels applicatifs,20 à 49 salariés,4.4/nMWM
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Edition de logiciels applicatifs,20 à 49 salariés,4.2/nAUBAY
+    - BOULOGNE-B,BOULOGNE-BILLANCOURT,Conseil en systèmes et logiciels informatiques,2 000 à 4 999 salariés,4.6/nMETALINE DATA CENTER SERVICES,NANTERRE,Ingénierie, études techniques,0 salarié,4.1/nIVIDATA STATS
+    - LEVALL,LEVALLOIS-PERRET,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.4/nFEEDBACK
+    -,COURBEVOIE,Autres activités informatiques,500 à 999 salariés,4.3/nAVANADE FRANCE
+    - ISSY-LES-,ISSY-LES-MOULINEAUX,Programmation informatique,500 à 999 salariés,4.4/nSOCIETE CAST,MEUDON,Edition de logiciels outils de développement et de langages,100 à 199 salariés,4.2/nAPT-SYS-MALLYANCE,BAGNOLET,Programmation informatique,20 à 49 salariés,4.4/nRESEAU-SOLUTION INTERNET TELECOM INTER
+    - S,SAINT-DENIS,Autres activités de télécommunication,100 à 199 salariés,4.4/nPOLE EMPLOI DR ILE DE FRANCE
+    - NOIS,NOISY-LE-GRAND,Administration publique (tutelle) des activités économiques,500 à 999 salariés,4.5/nLOGIQUE IMMOSOFT
+    - S,SAINT-DENIS,Programmation informatique,1 ou 2 salariés,4.5/nSTAFFMATCH
+    -,SAINT-OUEN,Programmation informatique,6 à 9 salariés,4.4/nASSOCIATION ENVERGURE
+    - AULNAY,AULNAY-SOUS-BOIS,Formation continue d'adultes,50 à 99 salariés,4.1/nTESSI CHEQUE ILE DE FRANCE
+    -,MONTREUIL,Traitement de données, hébergement et activités connexes,50 à 99 salariés,4.4/nSPACELY STOCKAGE
+    -,SAINT-OUEN,Programmation informatique,1 ou 2 salariés,3.8/nAGENCE DE FUNDRAISING-FACE A FACE-FORMAT,BONDY,Conseil en relations publiques et communication,10 à 19 salariés,3.9/nSAAYCOM
+    - S,SAINT-DENIS,Tierce maintenance de systèmes et d’applications informatiques,0 salarié,4.0/nKAROIL
+    -,MONTREUIL,Tierce maintenance de systèmes et d’applications informatiques,20 à 49 salariés,3.6/nXANDRIE,PANTIN,Portails Internet,20 à 49 salariés,3.8/nITNOVEM ( FILIALE SNCF)
+    - S,SAINT-DENIS,Edition de logiciels applicatifs,100 à 199 salariés,3.8/nEVA
+    -,MONTREUIL,Programmation informatique,0 salarié,3.6/nSALVIA DEVELOPPEMENT
+    - AUB,AUBERVILLIERS,Edition de logiciels applicatifs,50 à 99 salariés,3.8/nHYPERLEX
+    -,SAINT-OUEN,Edition de logiciels applicatifs,3 à 5 salariés,3.8/nALLIANZ TECHNOLOGY
+    -,SAINT-OUEN,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nIBM INTERACTIVE
+    - NOIS,NOISY-LE-GRAND,Conseil en systèmes et logiciels informatiques,0 salarié,4.5/nCALLIOPE BUSINESS SOLUTIONS
+    - S,SAINT-DENIS,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.1/nWTH
+    - TREMBLAY,TREMBLAY-EN-FRANCE,Conseil en systèmes et logiciels informatiques,10 à 19 salariés,3.4/nHN SERVICES - HN FORMATION - HN RECRUTEM
+    - CHARENT,CHARENTON-LE-PONT,Conseil en systèmes et logiciels informatiques,500 à 999 salariés,4.6/nIZENCIA
+    - IVRY,IVRY-SUR-SEINE,Conseil en systèmes et logiciels informatiques,50 à 99 salariés,4.5/nCIRCET DISTRIBUTION
+    - CHO,CHOISY-LE-ROI,Programmation informatique,0 salarié,4.5/nSHINE
+    - BONNEUIL,BONNEUIL-SUR-MARNE,Autres activités de soutien aux entreprises nca,0 salarié,3.8/nIT LINK SYSTEM
+    - LE-KREML,LE-KREMLIN-BICETRE,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.4/nADDEXPERT
+    - SAINT-MAUR-,SAINT-MAUR-DES-FOSSES,Autres activités de soutien aux entreprises nca,50 à 99 salariés,3.8/nCARTADIS
+    - FONTENAY,FONTENAY-SOUS-BOIS,Fabrication d'ordinateurs et d'équipements périphériques,50 à 99 salariés,3.5/nVIVERIS TECHNOLOGIES,RUNGIS,Conseil en systèmes et logiciels informatiques,0 salarié,3.6/nCITY ONE ACCUEIL PASSAGER,ORLY,Autres activités de soutien aux entreprises nca,50 à 99 salariés,4.5/nSKELLO
+    -,VINCENNES,Edition de logiciels applicatifs,20 à 49 salariés,4.4/nECO INVESTMENT
+    - IVRY,IVRY-SUR-SEINE,Activités spécialisées, scientifiques et techniques diverses,0 salarié,3.5/nCNRS MOY100 ILE-DE-FRANCE VILLEJUIF
+    -,VILLEJUIF,Recherche-développement en sciences humaines et sociales,2 000 à 4 999 salariés,3.7/nCITIMA
+    - S,SAINT-MANDE,Programmation informatique,0 salarié,3.1/nHAPPYPAL
+    - S,SAINT-MANDE,Programmation informatique,0 salarié,3.8/nSTA PORTAGE
+    - MAIS,MAISONS-ALFORT,Autres activités de soutien aux entreprises nca,20 à 49 salariés,3.8/nMEDIALIS
+    - FONTENAY,FONTENAY-SOUS-BOIS,Edition de logiciels applicatifs,20 à 49 salariés,3.7/nLIBEO
+    -,VINCENNES,Programmation informatique,0 salarié,4.4/nOFFICE FRANCAIS DE LA BIODIVERSITE
+    -,VINCENNES,Administration publique (tutelle) des activités économiques,0 salarié,3.4/nBLOOMIN
+    - S,SAINT-MANDE,Programmation informatique,20 à 49 salariés,3.8/nNTT FRANCE,RUNGIS,Conseil en systèmes et logiciels informatiques,0 salarié,3.0/nATOS MANAGEMENT FRANCE,BEZONS,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.1/nWORLDLINE FRANCE,BEZONS,Conseil en systèmes et logiciels informatiques,0 salarié,4.1/nINFODIS IT
+    - ROISSY,ROISSY-EN-FRANCE,Conseil en systèmes et logiciels informatiques,250 à 499 salariés,4.7/nCOFELY ALS
+    - ROISSY,ROISSY-EN-FRANCE,Ingénierie, études techniques,50 à 99 salariés,3.6/nEUROCOM ENERGIE
+    - VILLI,VILLIERS-LE-BEL,Autres activités de télécommunication,10 à 19 salariés,3.5/nPMPC
+    - SAINT-OUE,SAINT-OUEN-L-AUMONE,Tierce maintenance de systèmes et d’applications informatiques,6 à 9 salariés,4.0/n1G-LINK CONSULTING,BEZONS,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.7/nSTEPHYA CONCEPTS
+    - SAINT-OUE,SAINT-OUEN-L-AUMONE,Traitement de données, hébergement et activités connexes,50 à 99 salariés,3.6/nLITTLE WORKER
+    -,HEDOUVILLE,Programmation informatique,1 ou 2 salariés,4.4/nTORIN & CIE
+    - GOU,GOUSSAINVILLE,Conseil pour les affaires et autres conseils de gestion,1 ou 2 salariés,3.5/nADREXO
+    - SAINT-LE,SAINT-LEU-LA-FORET,Activités des agences de publicité,100 à 199 salariés,3.1/nANEXYS
+    - GARGES-L,GARGES-LES-GONESSE,Conseil en systèmes et logiciels informatiques,3 à 5 salariés,3.4/nRIO MANAGED SERVICES
+    - PUISEU,PUISEUX-PONTOISE,Programmation informatique,0 salarié,4.6/nKN CONSULTING
+    - SAI,SAINT-GRATIEN,Conseil en systèmes et logiciels informatiques,0 salarié,3.4/nWORLDCONNEXION
+    - SAINT-BRICE-,SAINT-BRICE-SOUS-FORET,Autres activités informatiques,0 salarié,3.7/nSG PROD
+    -,LE-THILLAY,Programmation informatique,0 salarié,3.1/nINMAC WSTORE
+    - ROISSY,ROISSY-EN-FRANCE,Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels,250 à 499 salariés,4.1/nENSOPCO,DOMONT,Portails Internet,0 salarié,2.8/nDOCAPOSTE BPO,CERGY,Traitement de données, hébergement et activités connexes,100 à 199 salariés,3.4/nSINAPEL
+    -,ARGENTEUIL,Télécommunications filaires,0 salarié,2.8/nCONNEKT4
+    - S,SAINT-DENIS,Programmation informatique,0 salarié,3.6/nALIZES DEVELOPPEMENT
+    - S,SAINTE-ANNE,Conseil en relations publiques et communication,0 salarié,3.4/nBCCL ACCESS TO SUCCESS
+    -,LES-ABYMES,Conseil en systèmes et logiciels informatiques,0 salarié,3.9/nAGYRH CONSULTING
+    - BA,BAIE-MAHAULT,Programmation informatique,0 salarié,3.1/nZEOP MOBILE,LE-PORT,Télécommunications sans fil,0 salarié,3.5/nSAS NOUTDOC SOLUTION
+    -,SAINT-LEU,Edition de logiciels applicatifs,0 salarié,3.4/nHUMAPRO
+    -,SAINT-PAUL,Programmation informatique,0 salarié,4.1/nPIL-MEDIA
+    - L,LE-LAMENTIN,Programmation informatique,1 ou 2 salariés,3.1/nNIXIA ENGINEERING SYSTEM,LE-PORT,Tierce maintenance de systèmes et d’applications informatiques,3 à 5 salariés,3.8/nSECTION MORIN DESMARAIS
+    - B,BASSE-TERRE,Administration publique (tutelle) des activités économiques,100 à 199 salariés,3.0/nA.R.M.E.F.L.HOR.
+    - SA,SAINT-PIERRE,Activités spécialisées, scientifiques et techniques diverses,20 à 49 salariés,3.0/nM'GIALA-TELECOM,LE-MARIN,Autres activités informatiques,0 salarié,2.8/nSTRATEGIE INFORMATIQUE
+    -,LES-ABYMES,Conseil en systèmes et logiciels informatiques,20 à 49 salariés,3.0/nADRUN
+    - S,SAINT-DENIS,Programmation informatique,10 à 19 salariés,3.1/nMADI'DEV CTRE DE FORMATIONS  NUMERIQUE,
+    - FORT,FORT-DE-FRANCE,Formation continue d'adultes,6 à 9 salariés,2.8/nNOVATEC GUADELOUPE
+    - BA,BAIE-MAHAULT,Autres activités informatiques,6 à 9 salariés,2.8/nINSTITUT PASTEUR DE GUYANE,CAYENNE,Recherche-développement en autres sciences physiques et naturelles,50 à 99 salariés,2.7/nSOCIETE DE RECYCLAGE ET DE RECONDITIONNE
+    - S,SAINT-DENIS,Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé,6 à 9 salariés,2.7/nBEELIZ
+    - BA,BAIE-MAHAULT,Programmation informatique,0 salarié,3.6/nAVANT-GARDE OUTRE MER,CAYENNE,Tierce maintenance de systèmes et d’applications informatiques,0 salarié,3.1/n
